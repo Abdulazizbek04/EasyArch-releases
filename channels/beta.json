@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.1/EasyArch_0.2.1.zip",
-  "sha256": "C12695F1D5957A8BFD9744911812B8DC45B8F0147E1809417D1665B11EA02EEC",
+  "version": "0.2.2",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.2/EasyArch_0.2.2.zip",
+  "sha256": "E5AECCE4F3B16277B614D2E09F15FF3A4217DA4CA31AB86EA3B39A10EBB38122",
   "notes": {
-    "uz": "• Avtomatik yangilanish: Revit ochilganda yangi versiya tekshiriladi.\n• Sozlamalarda «Sinov (beta) versiyalarini ham olish».\n• Pol, Shift, Devor pardozi, Umumiy pardozlash va shablonlar (0.2.0).",
-    "ru": "• Автообновление: при запуске Revit проверяется новая версия.\n• В настройках — «Получать тестовые (beta) версии».\n• Пол, потолок, отделка стен, общая отделка и шаблоны (0.2.0).",
-    "en": "• Auto-update: a new version is checked when Revit starts.\n• Settings: «Also get test (beta) versions».\n• Floors, ceilings, wall finishes, finish-all and templates (0.2.0)."
+    "uz": "• Yangilanishni sinash versiyasi: agar bu xabarni ko'rib, «Yangilash» ni bossangiz va Revitni qayta ochgach Sozlamalarda 0.2.2 ko'rinsa — avtomatik yangilanish ishlayapti.",
+    "ru": "• Тестовая версия обновления: если после «Обновить» и перезапуска Revit в настройках видно 0.2.2 — автообновление работает.",
+    "en": "• Update test build: if after «Update» and restarting Revit the settings show 0.2.2, auto-update works."
   }
 }
