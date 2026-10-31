@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.1/EasyArch_0.2.1.zip",
-  "sha256": "C12695F1D5957A8BFD9744911812B8DC45B8F0147E1809417D1665B11EA02EEC",
+  "version": "0.2.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.3/EasyArch_0.2.3.zip",
+  "sha256": "48AC64E5BC719426E7F2E89E9E813BBD74006295AE0227065F00044BBF3E576C",
   "notes": {
-    "uz": "• Avtomatik yangilanish: Revit ochilganda yangi versiya tekshiriladi.\n• Sozlamalarda «Sinov (beta) versiyalarini ham olish».\n• Pol, Shift, Devor pardozi, Umumiy pardozlash va shablonlar (0.2.0).",
-    "ru": "• Автообновление: при запуске Revit проверяется новая версия.\n• В настройках — «Получать тестовые (beta) версии».\n• Пол, потолок, отделка стен, общая отделка и шаблоны (0.2.0).",
-    "en": "• Auto-update: a new version is checked when Revit starts.\n• Settings: «Also get test (beta) versions».\n• Floors, ceilings, wall finishes, finish-all and templates (0.2.0)."
+    "uz": "• Pol, Shift va Devor uchun alohida shablonlar. Umumiy pardozlashda uchtasi alohida tanlanadi. Eski shablonlar avtomatik bo'linadi.\n• Shablon oynasi: bitta tur ustuni, sig'masa gorizontal suriladi.\n• Shift va devor balandligi sath nomlari bilan: «Hisob boshi: Xona sathi / Keyingi sath» + qiymat (+ yuqori, − past), ostida har sath uchun izoh.\n• Ha/Yo'q tanlovlar almashtirgichga (switch) aylandi, Sozlamalarda ham.\n• Umumiy pardozlashda xona nomlari endi kesilmaydi.",
+    "ru": "• Отдельные шаблоны для пола, потолка и стен. В общей отделке выбираются по отдельности. Старые шаблоны разделяются автоматически.\n• Окно шаблонов: один столбец типа, горизонтальная прокрутка.\n• Высота потолка и стен с названиями уровней: «Отсчёт от: уровня помещения / следующего уровня» + значение (+ вверх, − вниз) и подсказка по уровням.\n• Да/Нет — переключатели, в том числе в настройках.\n• В общей отделке имена помещений больше не обрезаются.",
+    "en": "• Separate floor, ceiling and wall templates; picked separately in Finish all. Old templates are split automatically.\n• Template editor: one type column, horizontal scrolling.\n• Ceiling and wall heights with level names: «Measured from: room level / next level» + signed value, with a per-level hint.\n• Yes/No options are now switches, including Settings.\n• Room names are no longer truncated in Finish all."
   }
 }
