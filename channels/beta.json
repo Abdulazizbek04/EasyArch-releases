@@ -1,10 +1,10 @@
 {
-  "version": "0.7.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.7.0/EasyArch_0.7.0.zip",
-  "sha256": "F986996DEA93A77DFB3E9B73DD30888AE709A99D1AB59668F469C863EB10D609",
+  "version": "0.8.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.8.0/EasyArch_0.8.0.zip",
+  "sha256": "0390FE9FB9713B50F4E995454BA10A38545763A243C5303A10C5609B41E53D70",
   "notes": {
-    "uz": "• Mebel listi (Ichki dizayn): mebel(lar)ni tanlang — har biriga alohida list. Ko'rinishlar: tepadan, old, orqa, chap, o'ng, 3D (o'zingiz tanlaysiz). Faqat shu mebel ko'rinadi, gabarit o'lchamlar oiladagi Left/Right/Front/Back/Top/Bottom referenslari bo'yicha qo'yiladi. Masshtab avtomatik yoki tanlanadi, shtamp, list raqami prefiksi, nom shabloni.\n• Oldingi beta'lardagi hamma narsa (Profil, Kutubxona, Tartiblash, Marka, Shtrixovka) ham shu versiyada.",
-    "ru": "• Лист мебели: для каждой выбранной мебели отдельный лист с видами (сверху, спереди, сзади, слева, справа, 3D), изоляцией и габаритными размерами.\n• Плюс всё из прошлых бет.",
-    "en": "• Furniture sheet: a sheet per selected item with chosen views, isolation and overall dimensions.\n• Plus everything from earlier betas."
+    "uz": "• Yoyilma (Ichki dizayn): har bir devorga xona ichidan qaraydigan qirqim.\n  – Interaktiv reja: bosing — tomonni tanlash, chiziqni suring — devordan masofa, 2 marta bosing — №1, o'ng tugma — yoqish/o'chirish; har tomonga alohida otstup (pastda aniq qiymat ham kiritiladi).\n  – Ko'rinish turi va shabloni, 1,2,3 yoki A,B,C, soat bo'yicha / teskari, past siljish, yuqori chegara (keyingi sath yoki balandlik), yon devorlar, devor ortini kesish, nom shabloni.\n  – Qo'shimcha: har xonaga 2 ta 3D va xona plani; listga joylash (shtamp, masshtab, raqam).\n  – Oldin yaratilgan yoyilmalar takrorlanmaydi.\n• Oldingi beta'lardagi hammasi ham shu versiyada.",
+    "ru": "• Развёртки стен: разрез на каждую стену изнутри помещения с интерактивным планом (выбор, перетаскивание отступа, №1 двойным кликом, ПКМ — вкл/выкл), шаблон вида, нумерация, 3D, план помещения, размещение на листе.\n• Плюс всё из прошлых бет.",
+    "en": "• Wall elevations with an interactive plan, per-side offsets, numbering, 3D, room plan and sheet placement.\n• Plus everything from earlier betas."
   }
 }
