@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.5.0/EasyArch_0.5.0.zip",
-  "sha256": "04E7FF5F42A4954CF6F6E2E84B83577A93A83431E819FFE8CB5E179E67E55291",
+  "version": "0.6.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.6.0/EasyArch_0.6.0.zip",
+  "sha256": "2362F1B40556A748B6CA231016EC21997BDA36AD6DD5070E57B96B3707610CFF",
   "notes": {
-    "uz": "5-bosqich: Tartiblash (0.3 Profil va 0.4 Kutubxona ham shu versiyada)\n• List raqamlash: hammasi yoki kolleksiya bo'yicha, ketma-ket yoki har kolleksiyada boshidan; prefiks, boshlash, qadam, raqamlar soni, suffiks, tezkor tugmalar. Tartibni sudrab yoki ↑↓ bilan o'zgartirish. Eski → yangi raqam jadvali, takrorlanadigan raqamlar oldindan tekshiriladi.\n• Nomlarni ommaviy o'zgartirish: topish/almashtirish, nom oldiga/oxiriga qo'shish, harflar (KATTA, kichik, birinchisi katta).\n• Eksport: PDF (har list alohida yoki bitta fayl; rangli, kulrang, oq-qora; list o'lchami shtampdan), DWG (Revit sozlamalaridan), rasm (150/300/600 dpi). Fayl nomi shabloni, papka, listni bosganda preview, list to'plamlarini saqlash.",
-    "ru": "Этап 5: Оформление (включает Профиль 0.3 и Библиотеку 0.4)\n• Нумерация листов: все или по коллекции, сквозная или заново в каждой; префикс, начало, шаг, цифры, суффикс; порядок перетаскиванием; проверка дубликатов.\n• Массовое переименование: найти/заменить, префикс/суффикс имени, регистр.\n• Экспорт: PDF (по листу или одним файлом; цвет/серый/ЧБ), DWG (настройки Revit), изображения; шаблон имени, папка, превью листа, наборы листов.",
-    "en": "Phase 5: Arrange (includes Profile 0.3 and Library 0.4)\n• Sheet numbering with drag reordering, collections, duplicate check; bulk rename.\n• Export to PDF / DWG / images with name template, preview and saved sheet sets."
+    "uz": "• Marka tartiblash (Arxitektura): tiplarning «Маркировка типоразмера» ni ketma-ket raqamlash (Oc_1, Oc_2...). Filtr: o'z shartim (masalan «Модель» parametrida «bezak» bor) yoki Revitdagi tayyor filtr. Faqat ishlatilgan tiplar, tartib: nomi / sath / joriy marka, sudrab o'zgartirish.\n• Shtrixovka (Ichki dizayn): oboi yoki plitka rasmidan aniq o'lchamli model shtrixovkasi. O'lcham, proporsiya, masshtab, detallik, silliqlash, burish, plitka chegaralari, 2×2 preview.\n• Avvalgi beta'dagi Profil, Kutubxona, List raqamlash va Eksport ham shu versiyada.",
+    "ru": "• Нумерация марок: последовательная «Маркировка типоразмера» (Oc_1, Oc_2...) по своему условию или фильтру Revit.\n• Штриховка: модельная штриховка точного размера из картинки обоев/плитки.\n• Плюс Профиль, Библиотека, Нумерация листов и Экспорт из прошлых бет.",
+    "en": "• Mark numbering by condition or Revit filter.\n• Image to exact-size model hatch.\n• Plus Profile, Library, Sheet numbering and Export from earlier betas."
   }
 }
