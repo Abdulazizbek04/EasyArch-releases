@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.6.0/EasyArch_0.6.0.zip",
-  "sha256": "2362F1B40556A748B6CA231016EC21997BDA36AD6DD5070E57B96B3707610CFF",
+  "version": "0.7.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.7.0/EasyArch_0.7.0.zip",
+  "sha256": "F986996DEA93A77DFB3E9B73DD30888AE709A99D1AB59668F469C863EB10D609",
   "notes": {
-    "uz": "• Marka tartiblash (Arxitektura): tiplarning «Маркировка типоразмера» ni ketma-ket raqamlash (Oc_1, Oc_2...). Filtr: o'z shartim (masalan «Модель» parametrida «bezak» bor) yoki Revitdagi tayyor filtr. Faqat ishlatilgan tiplar, tartib: nomi / sath / joriy marka, sudrab o'zgartirish.\n• Shtrixovka (Ichki dizayn): oboi yoki plitka rasmidan aniq o'lchamli model shtrixovkasi. O'lcham, proporsiya, masshtab, detallik, silliqlash, burish, plitka chegaralari, 2×2 preview.\n• Avvalgi beta'dagi Profil, Kutubxona, List raqamlash va Eksport ham shu versiyada.",
-    "ru": "• Нумерация марок: последовательная «Маркировка типоразмера» (Oc_1, Oc_2...) по своему условию или фильтру Revit.\n• Штриховка: модельная штриховка точного размера из картинки обоев/плитки.\n• Плюс Профиль, Библиотека, Нумерация листов и Экспорт из прошлых бет.",
-    "en": "• Mark numbering by condition or Revit filter.\n• Image to exact-size model hatch.\n• Plus Profile, Library, Sheet numbering and Export from earlier betas."
+    "uz": "• Mebel listi (Ichki dizayn): mebel(lar)ni tanlang — har biriga alohida list. Ko'rinishlar: tepadan, old, orqa, chap, o'ng, 3D (o'zingiz tanlaysiz). Faqat shu mebel ko'rinadi, gabarit o'lchamlar oiladagi Left/Right/Front/Back/Top/Bottom referenslari bo'yicha qo'yiladi. Masshtab avtomatik yoki tanlanadi, shtamp, list raqami prefiksi, nom shabloni.\n• Oldingi beta'lardagi hamma narsa (Profil, Kutubxona, Tartiblash, Marka, Shtrixovka) ham shu versiyada.",
+    "ru": "• Лист мебели: для каждой выбранной мебели отдельный лист с видами (сверху, спереди, сзади, слева, справа, 3D), изоляцией и габаритными размерами.\n• Плюс всё из прошлых бет.",
+    "en": "• Furniture sheet: a sheet per selected item with chosen views, isolation and overall dimensions.\n• Plus everything from earlier betas."
   }
 }
