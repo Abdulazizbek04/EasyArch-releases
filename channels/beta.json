@@ -1,10 +1,10 @@
 {
-  "version": "0.2.3",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.3/EasyArch_0.2.3.zip",
-  "sha256": "48AC64E5BC719426E7F2E89E9E813BBD74006295AE0227065F00044BBF3E576C",
+  "version": "0.3.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.3.0/EasyArch_0.3.0.zip",
+  "sha256": "1D111ECC99E6AF082E6176E2932CC285C5268AC634FBCC50128E7ABBAFE5DE78",
   "notes": {
-    "uz": "• Pol, Shift va Devor uchun alohida shablonlar. Umumiy pardozlashda uchtasi alohida tanlanadi. Eski shablonlar avtomatik bo'linadi.\n• Shablon oynasi: bitta tur ustuni, sig'masa gorizontal suriladi.\n• Shift va devor balandligi sath nomlari bilan: «Hisob boshi: Xona sathi / Keyingi sath» + qiymat (+ yuqori, − past), ostida har sath uchun izoh.\n• Ha/Yo'q tanlovlar almashtirgichga (switch) aylandi, Sozlamalarda ham.\n• Umumiy pardozlashda xona nomlari endi kesilmaydi.",
-    "ru": "• Отдельные шаблоны для пола, потолка и стен. В общей отделке выбираются по отдельности. Старые шаблоны разделяются автоматически.\n• Окно шаблонов: один столбец типа, горизонтальная прокрутка.\n• Высота потолка и стен с названиями уровней: «Отсчёт от: уровня помещения / следующего уровня» + значение (+ вверх, − вниз) и подсказка по уровням.\n• Да/Нет — переключатели, в том числе в настройках.\n• В общей отделке имена помещений больше не обрезаются.",
-    "en": "• Separate floor, ceiling and wall templates; picked separately in Finish all. Old templates are split automatically.\n• Template editor: one type column, horizontal scrolling.\n• Ceiling and wall heights with level names: «Measured from: room level / next level» + signed value, with a per-level hint.\n• Yes/No options are now switches, including Settings.\n• Room names are no longer truncated in Finish all."
+    "uz": "3-bosqich: Ichki dizayn → Profil\n• Plintus (xona bo'yicha): xonalarni tanlang, o'ngdagi rejada tomonlarni bosib yoqing/o'chiring. Eshik o'rni + nalichnik zaxirasi uziladi, burchaklar yopiq, har xonaga bitta element.\n• Karniz (shift bo'yicha): shiftni tanlang — profil uning cheti bo'ylab aylanadi (pog'onali shiftda har kontur).\n• Chiziq bo'yicha va Model bo'yicha (qirralar, Tab — zanjir).\n• Profil kesimi previewi, devordan qochish, vertikal siljish, burish, akslantirish, material, nom, marka.\n• Yangilash: Свойства'dagi EA_ parametrlarini o'zgartirib «Yangilash» ni bosing.\n• Uzunlik devordan qochishni hisobga olib hisoblanadi. Parametr nomlari pyRevit plaginingizdagidek.",
+    "ru": "Этап 3: Дизайн интерьера → Профиль\n• Плинтус по помещению: выберите помещения, справа кликом включайте стороны. Двери + запас под наличник пропускаются, углы стыкуются, один элемент на помещение.\n• Карниз по потолку: выберите потолок — профиль пройдёт по его краю.\n• По линиям и по модели (рёбра, Tab — цепочка).\n• Превью сечения, отступ от стены, смещение по высоте, поворот, отражение, материал, имя, марка.\n• Обновить: измените параметры EA_ в Свойствах и нажмите «Обновить».\n• Длина учитывает отступ от стены. Имена параметров как в вашем pyRevit-плагине.",
+    "en": "Phase 3: Interior design → Profile\n• Skirting by room, cornice by ceiling, by lines and by model edges.\n• Profile preview, offsets, rotation, mirror, material, name, mark; Update from EA_ parameters."
   }
 }
