@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.1/EasyArch_0.2.1.zip",
+  "sha256": "C12695F1D5957A8BFD9744911812B8DC45B8F0147E1809417D1665B11EA02EEC",
+  "notes": {
+    "uz": "• Avtomatik yangilanish: Revit ochilganda yangi versiya tekshiriladi.\n• Sozlamalarda «Sinov (beta) versiyalarini ham olish».\n• Pol, Shift, Devor pardozi, Umumiy pardozlash va shablonlar (0.2.0).",
+    "ru": "• Автообновление: при запуске Revit проверяется новая версия.\n• В настройках — «Получать тестовые (beta) версии».\n• Пол, потолок, отделка стен, общая отделка и шаблоны (0.2.0).",
+    "en": "• Auto-update: a new version is checked when Revit starts.\n• Settings: «Also get test (beta) versions».\n• Floors, ceilings, wall finishes, finish-all and templates (0.2.0)."
+  }
+}
