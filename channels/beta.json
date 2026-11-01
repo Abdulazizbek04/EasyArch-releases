@@ -1,10 +1,10 @@
 {
-  "version": "0.9.9",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.9/EasyArch_0.9.9.zip",
-  "sha256": "BC958F6F25691D54DD0653EF3EC11CBFB0CCE9F0B48FCB5716DD969D80F4EBC9",
+  "version": "0.9.10",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.10/EasyArch_0.9.10.zip",
+  "sha256": "FA2A12CCEC38AAD3AD08016176F8918BD419225DB6E65703BCDF16448161E181",
   "notes": {
-    "uz": "Ixcham maydonlar (barcha oynalar), tor oynada preview ustidagi sozlamalar qatorlarga o'raladi, oynalarni kichikroq qilish mumkin; plintus oynasida profil kesimi ko'rinadi. Eksport: Hammasini tanlash. Marka: 1/01/001 ko'rinishlari. Telegram havolasi. Jurnal tugmasi olib tashlandi.",
-    "ru": "Компактные поля во всех окнах, адаптивные панели превью. Экспорт: выбрать все. Марки: формат 1/01/001. Ссылка на Telegram.",
-    "en": "Compact fields in all windows, responsive preview toolbars. Export: select all. Marks: 1/01/001 format. Telegram link."
+    "uz": "Pol/Shift/Devor, Plintus, Qirqim: parametrlar va xonalar ro'yxati orasida suriladigan ajratgich (holati eslab qolinadi); Pardoz oynasida \"Qo'llash\" tugmasi sig'masa keyingi qatorga o'tadi; ortiqcha izoh olib tashlandi.",
+    "ru": "Перетаскиваемый разделитель между параметрами и списком помещений; кнопка «Применить» переносится на новую строку.",
+    "en": "Draggable splitter between parameters and room list; Apply button wraps."
   }
 }
