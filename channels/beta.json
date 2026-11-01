@@ -1,10 +1,10 @@
 {
-  "version": "0.9.3",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.3/EasyArch_0.9.3.zip",
-  "sha256": "C16FCEB653947EF789787A27900B89E8FB3FC79E8088E8DD858CF28720AA7FB7",
+  "version": "0.9.4",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.4/EasyArch_0.9.4.zip",
+  "sha256": "7A0E2E604446B160DE29A58A7E1379AACC504C3D2AE2DD59E88AB74849FD31EA",
   "notes": {
-    "uz": "Plintus/Karniz, Pol/Shift/Devor, Shtrixovka oynalari yangi dizaynda: chapda parametrlar, o'ngda katta preview, preview ustida kichik sozlamalar. Plintus/karniz nomi va pardozlash qoidalaridagi tur nomlari ruscha.",
-    "ru": "Окна Плинтус/Карниз, Пол/Потолок/Стены, Штриховка в новом дизайне. Имена по умолчанию на русском.",
-    "en": "Profile, Finish and Hatch windows in the new layout. Default names in Russian."
+    "uz": "Eksport: kolleksiya bo'yicha filtr, raqam/nom bo'yicha saralash.",
+    "ru": "Экспорт: фильтр по набору листов, сортировка по номеру/имени.",
+    "en": "Export: sheet collection filter, sort by number/name."
   }
 }
