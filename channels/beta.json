@@ -1,10 +1,10 @@
 {
-  "version": "0.9.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.1/EasyArch_0.9.1.zip",
-  "sha256": "C49B1DC5E14788940B4832B6027B6F4865A81AE23B21F3DE79C5DC32EEF9CEE1",
+  "version": "0.9.2",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.2/EasyArch_0.9.2.zip",
+  "sha256": "B1C89C8C37D6660DF5183EA03D69C0DD3AF1E4C4A4ED9E9222924DF6CF89C76C",
   "notes": {
-    "uz": "Qirqim: ko'rinish oynasi turlari to'liq o'qiladi; min. tomon uzunligi (qisqa tomonlar kattasiga qo'shiladi); planda belgilarni yashirish; preview paneli tepaga ko'chdi, 3D burchaklar ko'rinadi; sarlavha namunalari; loyihaga yoziladigan nomlar ruscha.",
-    "ru": "Разрезы: все типы видовых экранов; мин. длина стороны; скрытие марок на планах; панель превью сверху; образцы заголовков; имена в проекте на русском.",
-    "en": "Sections: all viewport types; min side length; hide marks on plans; preview toolbar on top; title presets; project names in Russian."
+    "uz": "Mebel to'plam: tomonlar va 3D standart o'chiq, raqamlar yoqilgan tartibda; qirqim/fasad/detal shablonlari birga; ko'rinish oynasi turlarini o'qish kuchaytirildi.",
+    "ru": "Комплект мебели: стороны и 3D по умолчанию выключены, нумерация по порядку включения; шаблоны разрезов/фасадов вместе; улучшено чтение типов видовых экранов.",
+    "en": "Furniture set: sides and 3D off by default, numbering in click order; section/elevation templates together; better viewport type detection."
   }
 }
