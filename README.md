@@ -1,10 +1,26 @@
-# Easy_arch — yangilanishlar
+# Easy_arch — Revit plagini
 
-Bu repozitoriyda faqat Easy_arch Revit plaginining tayyor fayllari turadi.
-Plagin yangilanishlarni shu yerdan avtomatik oladi.
+Arxitektor va ichki dizaynerlar uchun Revit 2025 / 2026 / 2027 plagini.
+O'zbek, rus va ingliz tillarida.
 
-- `channels/stable.json` — barqaror versiya (hamma foydalanuvchilar)
-- `channels/beta.json` — sinov versiyasi (Sozlamalarda «Sinov versiyalari» yoqilganlar)
-- `files/<versiya>/EasyArch_<versiya>.zip` — o'rnatish paketi
+## ⬇️ Yuklab olish
 
-Qo'lda o'rnatish: ZIP ni oching, Revitni yoping va `ornatish.bat` ni ishga tushiring.
+**[Easy_arch — oxirgi versiya (ZIP)](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_latest.zip)**
+
+Sinov (beta) versiyasi: [EasyArch_beta.zip](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_beta.zip)
+
+## O'rnatish
+
+1. ZIP faylni yuklab oling va oching (o'ng tugma → «Извлечь все»).
+2. Revitni yoping.
+3. `ornatish.bat` ni ikki marta bosing.
+   Windows ko'k oyna chiqarsa: «Подробнее» → «Выполнить в любом случае».
+4. Revitni oching → **Easy_arch** tabi. Plagin haqida savol chiqsa — «Всегда загружать».
+
+Keyingi versiyalar avtomatik keladi: Revit ochilganda «Yangilash» taklif qilinadi.
+
+O'chirish: ZIP ichidagi `ochirish.bat`.
+
+## Bog'lanish
+
+Savollar va takliflar — plagin ichida: Sozlamalar → «Telegramga yozish».
