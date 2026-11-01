@@ -1,10 +1,10 @@
 {
-  "version": "0.8.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.8.1/EasyArch_0.8.1.zip",
-  "sha256": "0011624B721C1A752560C334BB98D7FD89D7C101490159CDAEE01E80A66A24BC",
+  "version": "0.9.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.0/EasyArch_0.9.0.zip",
+  "sha256": "F0989A8A91AC7481387501DA83E6939FEBB07431A65DB8B3785C439F6F1D1AE0",
   "notes": {
-    "uz": "Tuzatishlar (sizning sinovingiz bo'yicha):\n• Varaqlar (list raqamlash): «sheetNumber cannot include prohibited characters» xatosi tuzatildi — endi raqamlaydi.\n• Lentada «Tartiblash ▾» ochiluvchi tugmasi: ichida Varaqlar va Marka tartiblash.\n• «Raqamlar soni» maydoni olib tashlandi — 1 / 01 / 001 tezkor tugmalari yetarli.\n• Sudrab tartiblashda list qayerga tushishi ko'k chiziq bilan ko'rsatiladi (Varaqlar va Marka).\n• Hamma oynalar ekranga sig'adi (pastki tugmalar doim ko'rinadi), oxirgi o'lcham va joyi eslab qolinadi.\n• Plintus previewi: devorlar qalinligi bilan, plintus beriladigan tomonlar yorqin to'q sariq, eshik o'rinlari qizil (uzilish joyi).",
-    "ru": "Исправления: нумерация листов (недопустимые символы), выпадающая кнопка «Упорядочить» (Листы, Марки), убрано поле «Цифр», линия-указатель при перетаскивании, окна помещаются на экран и запоминают размер, превью плинтуса со стенами и проёмами.",
-    "en": "Fixes: sheet numbering error, Arrange dropdown, removed Digits field, drop indicator, windows fit the screen and remember size, skirting preview with walls and door gaps."
+    "uz": "Qirqim (oldingi Yoyilma): yangi dizayn — chapda parametrlar, o'ngda katta preview; Qirqim/Fasad tanlovi, sathga bog'lash, burchaklarda 3D, listga joylash (taxlash, masshtab, sarlavha o'rni, kolleksiya). Mebel to'plam: bir nechta mebel bitta to'plam va bitta list, preview orqali tomon/3D tanlash, shablonlar, geometriya bo'yicha o'lchamlar, plan tuzatildi. Kutubxona: .rvt loyihalardan oilalar. Yordamchi izohlar olib tashlandi.",
+    "ru": "Разрезы: новый дизайн, разрез/фасад, привязка к уровням, 3D по углам, размещение на листах. Комплект мебели: несколько элементов — один лист, выбор сторон в превью, шаблоны, размеры по геометрии. Библиотека: семейства из .rvt. Убраны подсказки.",
+    "en": "Sections: new layout, section/elevation, level binding, corner 3D, sheet placement. Furniture set: multiple items on one sheet, side picking in preview, templates, geometry dimensions. Library: families from .rvt projects. Helper texts removed."
   }
 }
