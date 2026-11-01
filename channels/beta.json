@@ -1,10 +1,10 @@
 {
-  "version": "0.9.8",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.8/EasyArch_0.9.8.zip",
-  "sha256": "E34B6A49FFDACC97A9D753F3616FCEAD6D094F31D7D78DFDA8DA3684AF2CE0F6",
+  "version": "0.9.9",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.9/EasyArch_0.9.9.zip",
+  "sha256": "BC958F6F25691D54DD0653EF3EC11CBFB0CCE9F0B48FCB5716DD969D80F4EBC9",
   "notes": {
-    "uz": "Revitni yopmasdan yangilashdagi xato tuzatildi (\"Can not subscribe to an event...\").",
-    "ru": "Исправлена ошибка обновления без перезапуска Revit.",
-    "en": "Fixed in-place update error."
+    "uz": "Ixcham maydonlar (barcha oynalar), tor oynada preview ustidagi sozlamalar qatorlarga o'raladi, oynalarni kichikroq qilish mumkin; plintus oynasida profil kesimi ko'rinadi. Eksport: Hammasini tanlash. Marka: 1/01/001 ko'rinishlari. Telegram havolasi. Jurnal tugmasi olib tashlandi.",
+    "ru": "Компактные поля во всех окнах, адаптивные панели превью. Экспорт: выбрать все. Марки: формат 1/01/001. Ссылка на Telegram.",
+    "en": "Compact fields in all windows, responsive preview toolbars. Export: select all. Marks: 1/01/001 format. Telegram link."
   }
 }
