@@ -1,10 +1,10 @@
 {
-  "version": "0.9.5",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.5/EasyArch_0.9.5.zip",
-  "sha256": "D9ED0A2E2E8656205846C6AAA4207A0C47884CB9B8B00E0821F4D0875D038130",
+  "version": "0.9.6",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.6/EasyArch_0.9.6.zip",
+  "sha256": "5DB3C77BD929B1547176E604710B14419E5B9260CEA3870297B24382FC0A5420",
   "notes": {
-    "uz": "Revitni yopmasdan yangilash: plagin endi yuklovchi + asosiy qismdan iborat. Bu versiyani o'rnatgach Revitni bir marta qayta oching — keyingi yangilanishlar \"Hozir ishga tushirish\" bilan joyida qo'llanadi. Kutubxona: loyihani butunlay uzish.",
-    "ru": "Обновление без перезапуска Revit (после установки этой версии перезапустите Revit один раз). Библиотека: полное отключение проекта.",
-    "en": "Update without restarting Revit (restart once after installing this version). Library: fully disconnect a project."
+    "uz": "Lenta: Umumiy (Kutubxona, Avto o'lcham, Tartiblash, Eksport) va Ko'rinish (Qirqim, Mebel) panellari. Pardoz menyusi: Pol, Shift, Devor, Pardoz. Xona chegarasi sozlamasi Devor oynasida (standart o'chiq). Revitni yopmasdan yangilashning birinchi sinovi.",
+    "ru": "Лента: панели Общее и Виды. Меню Отделка: Пол, Потолок, Стены, Отделка. Граница помещения — в окне Стены. Первое обновление без перезапуска Revit.",
+    "en": "Ribbon: General and Views panels. Finish menu renamed. Room bounding moved to Walls window. First update without restarting Revit."
   }
 }
