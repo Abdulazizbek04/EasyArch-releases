@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.0/EasyArch_0.9.0.zip",
-  "sha256": "F0989A8A91AC7481387501DA83E6939FEBB07431A65DB8B3785C439F6F1D1AE0",
+  "version": "0.9.1",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.1/EasyArch_0.9.1.zip",
+  "sha256": "C49B1DC5E14788940B4832B6027B6F4865A81AE23B21F3DE79C5DC32EEF9CEE1",
   "notes": {
-    "uz": "Qirqim (oldingi Yoyilma): yangi dizayn — chapda parametrlar, o'ngda katta preview; Qirqim/Fasad tanlovi, sathga bog'lash, burchaklarda 3D, listga joylash (taxlash, masshtab, sarlavha o'rni, kolleksiya). Mebel to'plam: bir nechta mebel bitta to'plam va bitta list, preview orqali tomon/3D tanlash, shablonlar, geometriya bo'yicha o'lchamlar, plan tuzatildi. Kutubxona: .rvt loyihalardan oilalar. Yordamchi izohlar olib tashlandi.",
-    "ru": "Разрезы: новый дизайн, разрез/фасад, привязка к уровням, 3D по углам, размещение на листах. Комплект мебели: несколько элементов — один лист, выбор сторон в превью, шаблоны, размеры по геометрии. Библиотека: семейства из .rvt. Убраны подсказки.",
-    "en": "Sections: new layout, section/elevation, level binding, corner 3D, sheet placement. Furniture set: multiple items on one sheet, side picking in preview, templates, geometry dimensions. Library: families from .rvt projects. Helper texts removed."
+    "uz": "Qirqim: ko'rinish oynasi turlari to'liq o'qiladi; min. tomon uzunligi (qisqa tomonlar kattasiga qo'shiladi); planda belgilarni yashirish; preview paneli tepaga ko'chdi, 3D burchaklar ko'rinadi; sarlavha namunalari; loyihaga yoziladigan nomlar ruscha.",
+    "ru": "Разрезы: все типы видовых экранов; мин. длина стороны; скрытие марок на планах; панель превью сверху; образцы заголовков; имена в проекте на русском.",
+    "en": "Sections: all viewport types; min side length; hide marks on plans; preview toolbar on top; title presets; project names in Russian."
   }
 }
