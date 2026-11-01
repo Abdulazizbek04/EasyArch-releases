@@ -1,10 +1,10 @@
 {
-  "version": "0.9.12",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.12/EasyArch_0.9.12.zip",
-  "sha256": "CF6A187E2554D6D0470750E7B4523D670E5D6FC9A8F2B69E29C74605440F2B95",
+  "version": "0.9.13",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.13/EasyArch_0.9.13.zip",
+  "sha256": "6A13577DAC852778FB7B6A1AE808259FE748C345EB9AD6BCE7F245FEB9908116",
   "notes": {
-    "uz": "Pardoz oynasi: shablonlar va \"Belgilanganlarga\" turlari sig'masa keyingi qatorga o'tadi.",
-    "ru": "Окно Отделка: шаблоны и типы переносятся на новую строку.",
-    "en": "Finish window: templates and bulk types wrap."
+    "uz": "Avto o'lcham: ro'yxatda barcha planlar, qirqimlar va fasadlar; Hammasi/Planlar/Qirqimlar/Fasadlar saralash; planlarga xona ichki o'lchamlari va eshik/deraza bor devorlar bo'ylab zanjir.",
+    "ru": "Авторазмеры: все планы, разрезы и фасады с фильтром; на планах — внутренние размеры помещений и цепочки по стенам с проёмами.",
+    "en": "Auto dimensions: all plans, sections, elevations with filter; plans get room inner dimensions and chains along walls with openings."
   }
 }
