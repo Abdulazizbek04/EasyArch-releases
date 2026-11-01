@@ -1,10 +1,10 @@
 {
-  "version": "0.9.2",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.2/EasyArch_0.9.2.zip",
-  "sha256": "B1C89C8C37D6660DF5183EA03D69C0DD3AF1E4C4A4ED9E9222924DF6CF89C76C",
+  "version": "0.9.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.3/EasyArch_0.9.3.zip",
+  "sha256": "C16FCEB653947EF789787A27900B89E8FB3FC79E8088E8DD858CF28720AA7FB7",
   "notes": {
-    "uz": "Mebel to'plam: tomonlar va 3D standart o'chiq, raqamlar yoqilgan tartibda; qirqim/fasad/detal shablonlari birga; ko'rinish oynasi turlarini o'qish kuchaytirildi.",
-    "ru": "Комплект мебели: стороны и 3D по умолчанию выключены, нумерация по порядку включения; шаблоны разрезов/фасадов вместе; улучшено чтение типов видовых экранов.",
-    "en": "Furniture set: sides and 3D off by default, numbering in click order; section/elevation templates together; better viewport type detection."
+    "uz": "Plintus/Karniz, Pol/Shift/Devor, Shtrixovka oynalari yangi dizaynda: chapda parametrlar, o'ngda katta preview, preview ustida kichik sozlamalar. Plintus/karniz nomi va pardozlash qoidalaridagi tur nomlari ruscha.",
+    "ru": "Окна Плинтус/Карниз, Пол/Потолок/Стены, Штриховка в новом дизайне. Имена по умолчанию на русском.",
+    "en": "Profile, Finish and Hatch windows in the new layout. Default names in Russian."
   }
 }
