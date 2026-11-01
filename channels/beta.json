@@ -1,10 +1,10 @@
 {
-  "version": "0.9.10",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.10/EasyArch_0.9.10.zip",
-  "sha256": "FA2A12CCEC38AAD3AD08016176F8918BD419225DB6E65703BCDF16448161E181",
+  "version": "0.9.11",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.11/EasyArch_0.9.11.zip",
+  "sha256": "BD89B4596FDA9E444D3D1B63FA04E2667D14D3B2F4CB85F61416368BF475783E",
   "notes": {
-    "uz": "Pol/Shift/Devor, Plintus, Qirqim: parametrlar va xonalar ro'yxati orasida suriladigan ajratgich (holati eslab qolinadi); Pardoz oynasida \"Qo'llash\" tugmasi sig'masa keyingi qatorga o'tadi; ortiqcha izoh olib tashlandi.",
-    "ru": "Перетаскиваемый разделитель между параметрами и списком помещений; кнопка «Применить» переносится на новую строку.",
-    "en": "Draggable splitter between parameters and room list; Apply button wraps."
+    "uz": "Moslashuvchan oynalar: parametr bo'limlari sig'masa keyingi qatorga o'tadi (Pol/Shift/Devor, Marka, Eksport); xonalar ro'yxatida tur ustunlari kenglikka moslashadi, yuza ko'rinadi; chap qism kengliklari tenglashtirildi.",
+    "ru": "Адаптивные окна: параметры переносятся, столбцы типов подстраиваются под ширину, выровнены ширины.",
+    "en": "Responsive windows: parameter groups wrap, type columns adapt to width, widths aligned."
   }
 }
