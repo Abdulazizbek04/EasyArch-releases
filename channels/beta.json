@@ -1,10 +1,10 @@
 {
-  "version": "0.9.6",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.6/EasyArch_0.9.6.zip",
-  "sha256": "AD5E7527B1730085801A8A7C8065D09697963B21A46E6B1EA68BE96F979DA15F",
+  "version": "0.9.7",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.7/EasyArch_0.9.7.zip",
+  "sha256": "949CEC35F1E93CA7A33D2B182E5484E749FF451DCED60C7F49C5FB981DA0D513",
   "notes": {
-    "uz": "Lenta: Umumiy (Kutubxona, Avto o'lcham, Tartiblash, Eksport) va Ko'rinish (Qirqim, Mebel) panellari. Pardoz menyusi: Pol, Shift, Devor, Pardoz. Xona chegarasi sozlamasi Devor oynasida (standart o'chiq). Revitni yopmasdan yangilashning birinchi sinovi.",
-    "ru": "Лента: панели Общее и Виды. Меню Отделка: Пол, Потолок, Стены, Отделка. Граница помещения — в окне Стены. Первое обновление без перезапуска Revit.",
-    "en": "Ribbon: General and Views panels. Finish menu renamed. Room bounding moved to Walls window. First update without restarting Revit."
+    "uz": "Avto o'lcham (1-versiya): qirqim va fasadlarga batafsil zanjir (devor burchaklari, eshik/deraza chetlari), umumiy va vertikal (pol — teshiklar — shift) o'lchamlar. Tanlangan ko'rinishlar yoki list ochiq bo'lsa — undagi barcha qirqimlar. Shuningdek 0.9.6 dagi tasma o'zgarishlari.",
+    "ru": "Авторазмеры (v1) на разрезах и фасадах: цепочка, общий и вертикальные размеры.",
+    "en": "Auto dimensions (v1) for sections and elevations: chain, overall and vertical."
   }
 }
