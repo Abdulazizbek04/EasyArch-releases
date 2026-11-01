@@ -1,10 +1,10 @@
 {
-  "version": "0.9.4",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.4/EasyArch_0.9.4.zip",
-  "sha256": "7A0E2E604446B160DE29A58A7E1379AACC504C3D2AE2DD59E88AB74849FD31EA",
+  "version": "0.9.5",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.5/EasyArch_0.9.5.zip",
+  "sha256": "D9ED0A2E2E8656205846C6AAA4207A0C47884CB9B8B00E0821F4D0875D038130",
   "notes": {
-    "uz": "Eksport: kolleksiya bo'yicha filtr, raqam/nom bo'yicha saralash.",
-    "ru": "Экспорт: фильтр по набору листов, сортировка по номеру/имени.",
-    "en": "Export: sheet collection filter, sort by number/name."
+    "uz": "Revitni yopmasdan yangilash: plagin endi yuklovchi + asosiy qismdan iborat. Bu versiyani o'rnatgach Revitni bir marta qayta oching — keyingi yangilanishlar \"Hozir ishga tushirish\" bilan joyida qo'llanadi. Kutubxona: loyihani butunlay uzish.",
+    "ru": "Обновление без перезапуска Revit (после установки этой версии перезапустите Revit один раз). Библиотека: полное отключение проекта.",
+    "en": "Update without restarting Revit (restart once after installing this version). Library: fully disconnect a project."
   }
 }
