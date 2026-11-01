@@ -1,10 +1,10 @@
 {
-  "version": "0.9.7",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.7/EasyArch_0.9.7.zip",
-  "sha256": "949CEC35F1E93CA7A33D2B182E5484E749FF451DCED60C7F49C5FB981DA0D513",
+  "version": "0.9.8",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.8/EasyArch_0.9.8.zip",
+  "sha256": "E34B6A49FFDACC97A9D753F3616FCEAD6D094F31D7D78DFDA8DA3684AF2CE0F6",
   "notes": {
-    "uz": "Avto o'lcham (1-versiya): qirqim va fasadlarga batafsil zanjir (devor burchaklari, eshik/deraza chetlari), umumiy va vertikal (pol — teshiklar — shift) o'lchamlar. Tanlangan ko'rinishlar yoki list ochiq bo'lsa — undagi barcha qirqimlar. Shuningdek 0.9.6 dagi tasma o'zgarishlari.",
-    "ru": "Авторазмеры (v1) на разрезах и фасадах: цепочка, общий и вертикальные размеры.",
-    "en": "Auto dimensions (v1) for sections and elevations: chain, overall and vertical."
+    "uz": "Revitni yopmasdan yangilashdagi xato tuzatildi (\"Can not subscribe to an event...\").",
+    "ru": "Исправлена ошибка обновления без перезапуска Revit.",
+    "en": "Fixed in-place update error."
   }
 }
