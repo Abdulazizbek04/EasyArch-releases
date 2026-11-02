@@ -1,10 +1,10 @@
 {
-  "version": "0.10.4",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.4/EasyArch_0.10.4.zip",
-  "sha256": "5B5F0C1D1C367DC226C7B69BFC1CD2B01C15F031379E9EA7F68B560649E415D9",
+  "version": "0.10.5",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.5/EasyArch_0.10.5.zip",
+  "sha256": "C101C1C271B71005DF5283EC92830E32045010C5D3F538946621FF504642E85E",
   "notes": {
-    "uz": "Faqat tasdiqlangan funksiyalar ko'rinadi; sinovdagilari (Oyna, Avto o'lcham) faqat ishlab chiquvchi rejimida.",
-    "ru": "Видны только проверенные функции; тестовые — только в режиме разработчика.",
-    "en": "Only verified features are visible; testing features in developer mode only."
+    "uz": "Avto o'lcham: planda mebel, santexnika va jihozlarga gabarit o'lchamlar (yangi tugma). Mebel to'plam: batafsil zanjir + umumiy gabarit (qirqim va planda, ikki qator).",
+    "ru": "Авторазмеры: габариты мебели на планах. Комплект мебели: цепочка + общий размер.",
+    "en": "Auto dims: furniture on plans. Furniture set: chain + overall."
   }
 }
