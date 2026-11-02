@@ -1,10 +1,10 @@
 {
-  "version": "0.10.6",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.6/EasyArch_0.10.6.zip",
-  "sha256": "A3FCC3B32135D5227EC6343307D0C828348C0E5A53037D716021D38A51E3B259",
+  "version": "0.10.7",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.7/EasyArch_0.10.7.zip",
+  "sha256": "5658F3C154CB69A9A059ADC773810055696C4C30A23195CEB8FF7C3B21D216C6",
   "notes": {
-    "uz": "Reliz oldidan tekshiruv: matnlar bir xillashtirildi (Loyiha, Yasash, Kutubxonaga qo'shish), Eksport va Kutubxona oynalari tor oynada ham to'liq ko'rinadi.",
-    "ru": "Проверка перед релизом: единые тексты, окна Экспорт и Библиотека адаптированы к малой ширине.",
-    "en": "Pre-release polish: consistent texts, Export and Library windows adapt to small widths."
+    "uz": "Reliz: avtosaqlash standart o'chiq (Sozlamalarda yoqiladi); pardoz shablonlari standart \"(shablonsiz)\"; matnlar bir xillashtirildi; Eksport va Kutubxona tor oynada ham to'liq ko'rinadi.",
+    "ru": "Релиз: автосохранение по умолчанию выключено; шаблоны отделки по умолчанию не выбраны; единые тексты; адаптивные окна Экспорт и Библиотека.",
+    "en": "Release: autosave off by default; finish templates not preselected; consistent texts; responsive Export and Library windows."
   }
 }
