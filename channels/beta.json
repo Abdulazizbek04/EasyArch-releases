@@ -1,10 +1,10 @@
 {
-  "version": "0.9.13",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.13/EasyArch_0.9.13.zip",
-  "sha256": "6A13577DAC852778FB7B6A1AE808259FE748C345EB9AD6BCE7F245FEB9908116",
+  "version": "0.9.14",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.14/EasyArch_0.9.14.zip",
+  "sha256": "2CD5205F77E4D9AED55BDBBB6C409194BF5E3E358B1DD85DCBBD58EEA4E6078F",
   "notes": {
-    "uz": "Avto o'lcham: ro'yxatda barcha planlar, qirqimlar va fasadlar; Hammasi/Planlar/Qirqimlar/Fasadlar saralash; planlarga xona ichki o'lchamlari va eshik/deraza bor devorlar bo'ylab zanjir.",
-    "ru": "Авторазмеры: все планы, разрезы и фасады с фильтром; на планах — внутренние размеры помещений и цепочки по стенам с проёмами.",
-    "en": "Auto dimensions: all plans, sections, elevations with filter; plans get room inner dimensions and chains along walls with openings."
+    "uz": "Mebel va Qirqim previewida o'chiq tomonlarda bosiladigan \"+\" belgisi: bosilsa tomon yoqiladi (yana bosilsa o'chadi). Tugmalar: \"Yaratish\" o'rniga \"Yasash\".",
+    "ru": "Превью: у выключенных сторон кнопка «+» для включения.",
+    "en": "Preview: '+' marker to enable a side."
   }
 }
