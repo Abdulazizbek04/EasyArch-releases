@@ -5,21 +5,23 @@ O'zbek, rus va ingliz tillarida.
 
 ## ⬇️ Yuklab olish
 
-**[Easy_arch — oxirgi versiya (ZIP)](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_latest.zip)**
+**[Easy_arch — o'rnatuvchi (EXE)](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_Setup.exe)**
+
+Zaxira: [ZIP](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_latest.zip)
 
 Sinov (beta) versiyasi: [EasyArch_beta.zip](https://github.com/Abdulazizbek04/EasyArch-releases/raw/main/EasyArch_beta.zip)
 
 ## O'rnatish
 
-1. ZIP faylni yuklab oling va oching (o'ng tugma → «Извлечь все»).
-2. Revitni yoping.
-3. `ornatish.bat` ni ikki marta bosing.
+1. `EasyArch_Setup.exe` ni yuklab oling.
+2. Revitni yoping va faylni ishga tushiring.
    Windows ko'k oyna chiqarsa: «Подробнее» → «Выполнить в любом случае».
+3. Revit versiyalarini belgilang → **O'rnatish**.
 4. Revitni oching → **Easy_arch** tabi. Plagin haqida savol chiqsa — «Всегда загружать».
 
 Keyingi versiyalar avtomatik keladi: Revit ochilganda «Yangilash» taklif qilinadi.
 
-O'chirish: ZIP ichidagi `ochirish.bat`.
+O'chirish: `EasyArch_Setup.exe` → **O'chirish**.
 
 ## Bog'lanish
 
