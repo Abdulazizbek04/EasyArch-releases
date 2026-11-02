@@ -1,10 +1,10 @@
 {
-  "version": "0.10.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.0/EasyArch_0.10.0.zip",
-  "sha256": "1112C2D553D494109EEE9805682C35859D5894BA7A63DACDE64B63D8925368FF",
+  "version": "0.10.1",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.1/EasyArch_0.10.1.zip",
+  "sha256": "9A3B3E628C2289AA7A016B425D90DB10E8D6AF12830EBB3E9DA5B9D20456A5F5",
   "notes": {
-    "uz": "Yangi: Arxitektura → Model → Oyna (1-asos). Proyomlarga oyna, tyagalar (past/yon — bitta profil, tepa — alohida), otkos; 3D preview (o'ng tugma — aylantirish, g'ildirak — yaqinlashtirish, qismni bosish — tanlash); namunalarni saqlash; bir xil o'lchamlilar bitta sborka tipida. Tasmadagi yangi tugma Revit qayta ochilganda chiqadi, Markaz panelida darhol bor.",
-    "ru": "Новое: Архитектура → Модель → Окно (основа): окно, тяги, откосы в проёмах, 3D-превью, образцы.",
-    "en": "New: Architecture → Model → Window (base): window, trims, reveals in openings, 3D preview, presets."
+    "uz": "Oyna: rama, tavaqa va impost profillari qirrali (Akfa uslubiga o'xshash), shtapik qiyaligi; preview silliqroq (2x chizish), fon tugmasi (qora/kulrang/oq), orqa tomonga aylantirib bo'lmaydi; yasashdagi xatolar hisobotda aniq ko'rinadi.",
+    "ru": "Окно: профили с фасками, сглаженное превью, переключение фона, ошибки построения в отчёте.",
+    "en": "Window: chamfered profiles, smoother preview, background toggle, clearer errors."
   }
 }
