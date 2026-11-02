@@ -1,10 +1,10 @@
 {
-  "version": "0.9.14",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.9.14/EasyArch_0.9.14.zip",
-  "sha256": "2CD5205F77E4D9AED55BDBBB6C409194BF5E3E358B1DD85DCBBD58EEA4E6078F",
+  "version": "0.10.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.0/EasyArch_0.10.0.zip",
+  "sha256": "1112C2D553D494109EEE9805682C35859D5894BA7A63DACDE64B63D8925368FF",
   "notes": {
-    "uz": "Mebel va Qirqim previewida o'chiq tomonlarda bosiladigan \"+\" belgisi: bosilsa tomon yoqiladi (yana bosilsa o'chadi). Tugmalar: \"Yaratish\" o'rniga \"Yasash\".",
-    "ru": "Превью: у выключенных сторон кнопка «+» для включения.",
-    "en": "Preview: '+' marker to enable a side."
+    "uz": "Yangi: Arxitektura → Model → Oyna (1-asos). Proyomlarga oyna, tyagalar (past/yon — bitta profil, tepa — alohida), otkos; 3D preview (o'ng tugma — aylantirish, g'ildirak — yaqinlashtirish, qismni bosish — tanlash); namunalarni saqlash; bir xil o'lchamlilar bitta sborka tipida. Tasmadagi yangi tugma Revit qayta ochilganda chiqadi, Markaz panelida darhol bor.",
+    "ru": "Новое: Архитектура → Модель → Окно (основа): окно, тяги, откосы в проёмах, 3D-превью, образцы.",
+    "en": "New: Architecture → Model → Window (base): window, trims, reveals in openings, 3D preview, presets."
   }
 }
