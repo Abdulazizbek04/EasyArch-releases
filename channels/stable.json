@@ -1,10 +1,10 @@
 {
-  "version": "0.2.3",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.2.3/EasyArch_0.2.3.zip",
-  "sha256": "48AC64E5BC719426E7F2E89E9E813BBD74006295AE0227065F00044BBF3E576C",
+  "version": "0.10.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.3/EasyArch_0.10.3.zip",
+  "sha256": "1AE10EC9A7EDF8003534524B4DC1340D5B07E23A3101A8971D02866E782F3A81",
   "notes": {
-    "uz": "• Pol, Shift va Devor uchun alohida shablonlar. Umumiy pardozlashda uchtasi alohida tanlanadi. Eski shablonlar avtomatik bo'linadi.\n• Shablon oynasi: bitta tur ustuni, sig'masa gorizontal suriladi.\n• Shift va devor balandligi sath nomlari bilan: «Hisob boshi: Xona sathi / Keyingi sath» + qiymat (+ yuqori, − past), ostida har sath uchun izoh.\n• Ha/Yo'q tanlovlar almashtirgichga (switch) aylandi, Sozlamalarda ham.\n• Umumiy pardozlashda xona nomlari endi kesilmaydi.",
-    "ru": "• Отдельные шаблоны для пола, потолка и стен. В общей отделке выбираются по отдельности. Старые шаблоны разделяются автоматически.\n• Окно шаблонов: один столбец типа, горизонтальная прокрутка.\n• Высота потолка и стен с названиями уровней: «Отсчёт от: уровня помещения / следующего уровня» + значение (+ вверх, − вниз) и подсказка по уровням.\n• Да/Нет — переключатели, в том числе в настройках.\n• В общей отделке имена помещений больше не обрезаются.",
-    "en": "• Separate floor, ceiling and wall templates; picked separately in Finish all. Old templates are split automatically.\n• Template editor: one type column, horizontal scrolling.\n• Ceiling and wall heights with level names: «Measured from: room level / next level» + signed value, with a per-level hint.\n• Yes/No options are now switches, including Settings.\n• Room names are no longer truncated in Finish all."
+    "uz": "Oyna: Revit ichki xatosi (An internal error) bo'lsa, oyna xavfsizroq usullar bilan qayta yasaladi (belgilarsiz → umumiy model → guruh); xato butun buyruqni to'xtatmaydi.",
+    "ru": "Окно: при внутренней ошибке Revit — повтор безопасными способами.",
+    "en": "Window: safe fallbacks on Revit internal error."
   }
 }
