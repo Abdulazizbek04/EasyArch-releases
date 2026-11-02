@@ -1,10 +1,10 @@
 {
-  "version": "0.10.2",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.2/EasyArch_0.10.2.zip",
-  "sha256": "E1CB7B018D8741382649BBEDD59AE95A663215CA32BDF68B837A3B34C64BF695",
+  "version": "0.10.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.3/EasyArch_0.10.3.zip",
+  "sha256": "1AE10EC9A7EDF8003534524B4DC1340D5B07E23A3101A8971D02866E782F3A81",
   "notes": {
-    "uz": "Oyna: yuborgan namunalaringiz bo'yicha katalog — 12 ta tavaqa turi (поворотное, откидное, поворотно-откидное, подвесное, поворотное по вертикали/горизонтали, сдвижное, глухое, заглушка) va 8 ta tarkibli oyna (framuga, podyomnoe, shproslar bilan va h.k.); ochilish belgilari (shtrix chiziqlar), dastalar, shproslar; ro'yxatda kichik rasmlar.",
-    "ru": "Окно: каталог створок и составных окон по образцам, обозначения открывания, ручки, шпросы, миниатюры.",
-    "en": "Window: sash and composite window catalog, opening symbols, handles, muntins, thumbnails."
+    "uz": "Oyna: Revit ichki xatosi (An internal error) bo'lsa, oyna xavfsizroq usullar bilan qayta yasaladi (belgilarsiz → umumiy model → guruh); xato butun buyruqni to'xtatmaydi.",
+    "ru": "Окно: при внутренней ошибке Revit — повтор безопасными способами.",
+    "en": "Window: safe fallbacks on Revit internal error."
   }
 }
