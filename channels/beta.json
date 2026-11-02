@@ -1,10 +1,10 @@
 {
-  "version": "0.10.5",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.5/EasyArch_0.10.5.zip",
-  "sha256": "C101C1C271B71005DF5283EC92830E32045010C5D3F538946621FF504642E85E",
+  "version": "0.10.6",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.10.6/EasyArch_0.10.6.zip",
+  "sha256": "A3FCC3B32135D5227EC6343307D0C828348C0E5A53037D716021D38A51E3B259",
   "notes": {
-    "uz": "Avto o'lcham: planda mebel, santexnika va jihozlarga gabarit o'lchamlar (yangi tugma). Mebel to'plam: batafsil zanjir + umumiy gabarit (qirqim va planda, ikki qator).",
-    "ru": "Авторазмеры: габариты мебели на планах. Комплект мебели: цепочка + общий размер.",
-    "en": "Auto dims: furniture on plans. Furniture set: chain + overall."
+    "uz": "Reliz oldidan tekshiruv: matnlar bir xillashtirildi (Loyiha, Yasash, Kutubxonaga qo'shish), Eksport va Kutubxona oynalari tor oynada ham to'liq ko'rinadi.",
+    "ru": "Проверка перед релизом: единые тексты, окна Экспорт и Библиотека адаптированы к малой ширине.",
+    "en": "Pre-release polish: consistent texts, Export and Library windows adapt to small widths."
   }
 }
