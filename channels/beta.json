@@ -1,10 +1,10 @@
 {
-  "version": "0.11.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.0/EasyArch_0.11.0.zip",
-  "sha256": "31BD3FFE68210BD12C65AB2D5663F06BCFD322735E6F9961055FABC2C06E4AB6",
+  "version": "0.11.1",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.1/EasyArch_0.11.1.zip",
+  "sha256": "CE12B75FA0C75AE9250BEC33D6634964F51791C2493C615B01AB7A41DBC4582D",
   "notes": {
-    "uz": "Yangi: «Qanday ishlatiladi» oynasi (Markaz va Sozlamalar paneli) — har bir buyruq bo'yicha qisqa yo'riqnoma; «Botga yozish» va Sozlamalardagi «Telegramga yozish» endi @Easy_arch_revit_bot ga ochiladi. Obuna tizimining plagin qismi qo'shildi (server ulangach yoqiladi).",
-    "ru": "Новое: окно «Как пользоваться», ссылки на бот @Easy_arch_revit_bot. Клиент подписки (включится после запуска сервера).",
-    "en": "New: How-to window, links to @Easy_arch_revit_bot. Subscription client (activates once the server is live)."
+    "uz": "Obuna tizimi yoqildi: Sozlamalar → «Telegram orqali kirish». Har bir yangi foydalanuvchiga 2 oy bepul; to'lov va uzaytirish @Easy_arch_revit_bot orqali.",
+    "ru": "Включена подписка: Настройки → «Войти через Telegram». 2 месяца бесплатно; оплата через @Easy_arch_revit_bot.",
+    "en": "Subscription enabled: Settings → Sign in with Telegram. 2 months free; payment via @Easy_arch_revit_bot."
   }
 }
