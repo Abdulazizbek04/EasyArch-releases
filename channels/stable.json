@@ -1,10 +1,10 @@
 {
-  "version": "0.11.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.1/EasyArch_0.11.1.zip",
-  "sha256": "CE12B75FA0C75AE9250BEC33D6634964F51791C2493C615B01AB7A41DBC4582D",
+  "version": "0.11.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.3/EasyArch_0.11.3.zip",
+  "sha256": "A23A42A01F4AA4BB07F5E1332D3BD40D28BA7B6F44EA642DD7373E9640C7C1B0",
   "notes": {
-    "uz": "Obuna tizimi yoqildi: Sozlamalar → «Telegram orqali kirish». Har bir yangi foydalanuvchiga 2 oy bepul; to'lov va uzaytirish @Easy_arch_revit_bot orqali.",
-    "ru": "Включена подписка: Настройки → «Войти через Telegram». 2 месяца бесплатно; оплата через @Easy_arch_revit_bot.",
-    "en": "Subscription enabled: Settings → Sign in with Telegram. 2 months free; payment via @Easy_arch_revit_bot."
+    "uz": "Pol: eshik ostiga cho'zish yangi usulda (xona va eshik joylari birlashtiriladi) — eshik burchakda yoki bir nechta devor bo'lagiga tushsa ham ishlaydi.",
+    "ru": "Пол: продление под двери новым способом (объединение контуров) — работает и у углов.",
+    "en": "Floor: extension under doors uses a new union method — works near corners too."
   }
 }
