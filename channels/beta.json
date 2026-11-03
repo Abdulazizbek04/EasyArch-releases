@@ -1,10 +1,10 @@
 {
-  "version": "0.11.5",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.5/EasyArch_0.11.5.zip",
-  "sha256": "8DFC027C89A6CEC80128BC0C796E80967AB7CFCE8A6B4F75EFCAE7284E8FAB74",
+  "version": "0.11.6",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.6/EasyArch_0.11.6.zip",
+  "sha256": "D5BFF521A137872D68587E57A8C2F448BFA10098C9EBB23418B07806A1502BFB",
   "notes": {
-    "uz": "Yangi (sinov): Arxitektura → «Hujjatlash»: «Eshik va oyna» va «Vitraj» — tiplar ro'yxati, har bir tipga ko'chadan ko'rinish, gabarit o'lchamlar, avtomatik marka, listlarga taxlash. «Model» guruhi endi «Modelni yasash».",
-    "ru": "Новое (тест): Архитектура → «Документирование»: двери/окна и витражи — виды по типам, габариты, марки, листы.",
-    "en": "New (beta): Architecture → Documentation: doors/windows and curtain walls — views per type, overall dims, marks, sheets."
+    "uz": "Oynalar moslashuvchan: yozuvlar endi kesilmaydi — yorliqlar, sarlavhalar va tugmalar kerak bo'lsa ikkinchi qatorga o'tadi, ro'yxatdagi uzun nomlar «…» bilan qisqaradi (to'liq nomi sichqoncha ustida). Pastki holat matni tugmalar ostida qolmaydi. Eksport, Marka tartiblash va Varaqlar oynalarining yuqori qismi kichik oynada aylantiriladi.",
+    "ru": "Адаптивные окна: подписи и кнопки переносятся, длинные значения списков сокращаются «…» с подсказкой; нижний статус не перекрывается кнопками.",
+    "en": "Responsive windows: labels and buttons wrap, long combo values are trimmed with a tooltip; footer status no longer overlaps buttons."
   }
 }
