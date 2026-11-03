@@ -1,10 +1,10 @@
 {
-  "version": "0.11.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.1/EasyArch_0.11.1.zip",
-  "sha256": "CE12B75FA0C75AE9250BEC33D6634964F51791C2493C615B01AB7A41DBC4582D",
+  "version": "0.11.2",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.2/EasyArch_0.11.2.zip",
+  "sha256": "74A564311EED36E3C09AAC573C6A3A3B9709A4FFB27F651EBD8FAC1FA661B319",
   "notes": {
-    "uz": "Obuna tizimi yoqildi: Sozlamalar → «Telegram orqali kirish». Har bir yangi foydalanuvchiga 2 oy bepul; to'lov va uzaytirish @Easy_arch_revit_bot orqali.",
-    "ru": "Включена подписка: Настройки → «Войти через Telegram». 2 месяца бесплатно; оплата через @Easy_arch_revit_bot.",
-    "en": "Subscription enabled: Settings → Sign in with Telegram. 2 months free; payment via @Easy_arch_revit_bot."
+    "uz": "Tuzatishlar: pol/shift kontur xatosida («curve loops cannot compose a valid boundary») endi soddalashtirilgan kontur bilan baribir yasaladi; Oyna — «internal error» bo'lsa xavfsiz usulda qayta yasaladi; ishga tushganda kelgan yangilanish ham Revitni yopmasdan qo'llanadi; o'rnatuvchi EXE endi har qanday Windows 10/11 da ochiladi.",
+    "ru": "Исправления: пол/потолок строятся по упрощённому контуру при ошибке границы; Окно — повтор в безопасном режиме при internal error; горячее обновление при запуске; установщик EXE работает на любом Windows 10/11.",
+    "en": "Fixes: floor/ceiling fall back to a simplified boundary; Window retries in safe mode on internal error; hot update at startup; setup EXE runs on any Windows 10/11."
   }
 }
