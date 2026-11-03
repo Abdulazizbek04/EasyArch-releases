@@ -1,10 +1,10 @@
 {
-  "version": "0.11.4",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.4/EasyArch_0.11.4.zip",
-  "sha256": "1324866CB29CDEF9D1E55C4298AE0E39CB451A2B134E385BD8A59DC002F897FF",
+  "version": "0.11.5",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.5/EasyArch_0.11.5.zip",
+  "sha256": "8DFC027C89A6CEC80128BC0C796E80967AB7CFCE8A6B4F75EFCAE7284E8FAB74",
   "notes": {
-    "uz": "Yangi: lentada «Yangilash» tugmasi (Markazdan keyin). Karniz shift bo'yicha endi shift ostiga osiladi (profil tepasi shift yuzasida). Profil oynasida eni va bo'yi (mm). Listga joylash: sarlavha turi (Заголовок вида) va «sarlavhasiz». Mebel: o'lcham turi tanlovi; standart o'lcham va ko'rinish oynasi turi nomi bilan ko'rsatiladi.",
-    "ru": "Новое: кнопка «Обновить» на ленте. Карниз по потолку теперь под потолком. Ширина/высота профиля. Заголовок вида при размещении на листе. Мебель: выбор типа размера.",
-    "en": "New: Update button on the ribbon. Ceiling cornice now hangs below the ceiling. Profile width/height. View title choice when placing on sheets. Furniture: dimension type."
+    "uz": "Yangi (sinov): Arxitektura → «Hujjatlash»: «Eshik va oyna» va «Vitraj» — tiplar ro'yxati, har bir tipga ko'chadan ko'rinish, gabarit o'lchamlar, avtomatik marka, listlarga taxlash. «Model» guruhi endi «Modelni yasash».",
+    "ru": "Новое (тест): Архитектура → «Документирование»: двери/окна и витражи — виды по типам, габариты, марки, листы.",
+    "en": "New (beta): Architecture → Documentation: doors/windows and curtain walls — views per type, overall dims, marks, sheets."
   }
 }
