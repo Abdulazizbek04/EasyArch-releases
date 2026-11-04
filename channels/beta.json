@@ -1,10 +1,10 @@
 {
-  "version": "0.11.9",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.9/EasyArch_0.11.9.zip",
-  "sha256": "8C130819B44A0E46DF242FEC12C02C0610876B5EBEC5B96C1551284256D399DB",
+  "version": "0.12.0",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.0/EasyArch_0.12.0.zip",
+  "sha256": "73D39591A0CC7AB3540FA2EE7D3C76BEB911791F2ECB8F7C0659A5EEBCA7F833",
   "notes": {
-    "uz": "Hujjatlash: «Eshik» va «Oyna» endi alohida buyruqlar (har birining o'z sozlamalari va listlari). Tarjimalar: o'zbek, rus va ingliz atamalari moslashtirildi (Hujjatlash — Оформление, Listlar, Profillarni yangilash va h.k.).",
-    "ru": "Оформление: «Двери» и «Окна» — отдельные команды. Термины uz/ru/en согласованы.",
-    "en": "Documentation: Doors and Windows are now separate commands. uz/ru/en terminology aligned."
+    "uz": "Yangi (sinov): Arxitektura → Spetsifikatsiya → «Spetsifikatsiya dizayni» — Excelga o'xshash oynada kataklarni belgilab shrift, rang, fon, tekislash, chegaralar, ustun eni, birlashtirish, yo'l-yo'l qatorlar; tayyor va o'z shablonlaringiz; «Qo'llash» — loyihaga.",
+    "ru": "Новое (тест): Архитектура → Спецификации → «Дизайн спецификации» — оформление как в Excel.",
+    "en": "New (beta): Architecture → Schedules → Schedule design — Excel-like styling."
   }
 }
