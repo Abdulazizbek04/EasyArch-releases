@@ -1,10 +1,10 @@
 {
-  "version": "0.12.0",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.0/EasyArch_0.12.0.zip",
-  "sha256": "73D39591A0CC7AB3540FA2EE7D3C76BEB911791F2ECB8F7C0659A5EEBCA7F833",
+  "version": "0.12.1",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.1/EasyArch_0.12.1.zip",
+  "sha256": "DA955913F07A7C2C23ACAEF57283A0F010EF7442C034FADD61D7C5FF7D7FE82D",
   "notes": {
-    "uz": "Yangi (sinov): Arxitektura → Spetsifikatsiya → «Spetsifikatsiya dizayni» — Excelga o'xshash oynada kataklarni belgilab shrift, rang, fon, tekislash, chegaralar, ustun eni, birlashtirish, yo'l-yo'l qatorlar; tayyor va o'z shablonlaringiz; «Qo'llash» — loyihaga.",
-    "ru": "Новое (тест): Архитектура → Спецификации → «Дизайн спецификации» — оформление как в Excel.",
-    "en": "New (beta): Architecture → Schedules → Schedule design — Excel-like styling."
+    "uz": "Spetsifikatsiya dizayni: yangi chizilgan belgilar (B/I/U, tekislash, chegaralar, orqaga/oldinga); shrift o'lchami ro'yxati ishlaydi; «Olib tashlash» setka chiziqlarini ham yo'qotadi; preview'da tanlangan ustun eni va qator balandligi ko'rinadi; shablon shrifti kompyuterda bo'lmasa — almashtiriladi; ustun uslubi Revitga yozilganini tekshirib, kerak bo'lsa boshqa usulda yoziladi.",
+    "ru": "Дизайн спецификации: новые значки, размер шрифта, удаление линий сетки, размеры выделения в превью, проверка записи стиля.",
+    "en": "Schedule design: new icons, font size list, grid line removal, selection sizes in preview, verified style writing."
   }
 }
