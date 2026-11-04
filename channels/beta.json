@@ -1,10 +1,10 @@
 {
-  "version": "0.11.8",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.8/EasyArch_0.11.8.zip",
-  "sha256": "0C443670CE71BB3A5667037E88F4992D8BE1E02424A7F8C6C0D26DAB026E21CF",
+  "version": "0.11.9",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.9/EasyArch_0.11.9.zip",
+  "sha256": "8C130819B44A0E46DF242FEC12C02C0610876B5EBEC5B96C1551284256D399DB",
   "notes": {
-    "uz": "Qirqim va Mebel previewi: yoqiq tomon doirasini endi surib masofani o'zgartirish mumkin (doira yonida surish strelkalari, sichqoncha ↔/↕ ko'rinishiga o'tadi); joyida bir bosish — o'chiradi.",
-    "ru": "Превью разрезов и мебели: круг стороны можно перетаскивать (стрелки, курсор ↔/↕); щелчок на месте — выключает.",
-    "en": "Section/furniture preview: drag the side circle to change the offset (arrows, ↔/↕ cursor); click in place turns it off."
+    "uz": "Hujjatlash: «Eshik» va «Oyna» endi alohida buyruqlar (har birining o'z sozlamalari va listlari). Tarjimalar: o'zbek, rus va ingliz atamalari moslashtirildi (Hujjatlash — Оформление, Listlar, Profillarni yangilash va h.k.).",
+    "ru": "Оформление: «Двери» и «Окна» — отдельные команды. Термины uz/ru/en согласованы.",
+    "en": "Documentation: Doors and Windows are now separate commands. uz/ru/en terminology aligned."
   }
 }
