@@ -1,10 +1,10 @@
 {
-  "version": "0.11.4",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.4/EasyArch_0.11.4.zip",
-  "sha256": "1324866CB29CDEF9D1E55C4298AE0E39CB451A2B134E385BD8A59DC002F897FF",
+  "version": "0.11.7",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.7/EasyArch_0.11.7.zip",
+  "sha256": "3B3B6F9504CF93D4B9B8BFBA008347B96ABC702F92C0514071EA84F6A715E722",
   "notes": {
-    "uz": "Yangi: lentada «Yangilash» tugmasi (Markazdan keyin). Karniz shift bo'yicha endi shift ostiga osiladi (profil tepasi shift yuzasida). Profil oynasida eni va bo'yi (mm). Listga joylash: sarlavha turi (Заголовок вида) va «sarlavhasiz». Mebel: o'lcham turi tanlovi; standart o'lcham va ko'rinish oynasi turi nomi bilan ko'rsatiladi.",
-    "ru": "Новое: кнопка «Обновить» на ленте. Карниз по потолку теперь под потолком. Ширина/высота профиля. Заголовок вида при размещении на листе. Мебель: выбор типа размера.",
-    "en": "New: Update button on the ribbon. Ceiling cornice now hangs below the ceiling. Profile width/height. View title choice when placing on sheets. Furniture: dimension type."
+    "uz": "Yangi: Arxitektura → Hujjatlash → «Vitraj» — loyihadagi vitrajlar tip va o'lcham bo'yicha: har biriga ko'chadan ko'rinish, gabarit o'lchamlar, avtomatik marka (В-1…) va listlarga taxlash. Oynalar moslashuvchan: yozuvlar kesilmaydi. (Yangi tugma lentada Revit qayta ochilganda paydo bo'ladi.)",
+    "ru": "Новое: Архитектура → Документирование → «Витражи»: виды снаружи по типам и размерам, габариты, автомарки, листы. Адаптивные окна.",
+    "en": "New: Architecture → Documentation → Curtain walls: exterior views per type and size, overall dims, auto marks, sheets. Responsive windows."
   }
 }
