@@ -1,10 +1,10 @@
 {
-  "version": "0.12.1",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.1/EasyArch_0.12.1.zip",
-  "sha256": "DA955913F07A7C2C23ACAEF57283A0F010EF7442C034FADD61D7C5FF7D7FE82D",
+  "version": "0.12.2",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.2/EasyArch_0.12.2.zip",
+  "sha256": "5997A22F2FDCCE9BD6AD0E7D6A433F4AEC7BB6544E19942E3F531A0D754D8FB2",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: yangi chizilgan belgilar (B/I/U, tekislash, chegaralar, orqaga/oldinga); shrift o'lchami ro'yxati ishlaydi; «Olib tashlash» setka chiziqlarini ham yo'qotadi; preview'da tanlangan ustun eni va qator balandligi ko'rinadi; shablon shrifti kompyuterda bo'lmasa — almashtiriladi; ustun uslubi Revitga yozilganini tekshirib, kerak bo'lsa boshqa usulda yoziladi.",
-    "ru": "Дизайн спецификации: новые значки, размер шрифта, удаление линий сетки, размеры выделения в превью, проверка записи стиля.",
-    "en": "Schedule design: new icons, font size list, grid line removal, selection sizes in preview, verified style writing."
+    "uz": "Spetsifikatsiya dizayni: ustun (ma'lumot qatorlari) uslubi Revitga yozilish tartibi tuzatildi — fon, shrift, rang va tekislash endi loyihada ham chiqishi kerak; natija jurnalga yoziladi.",
+    "ru": "Дизайн спецификации: исправлена запись стиля столбцов в Revit.",
+    "en": "Schedule design: fixed writing column styles to Revit."
   }
 }
