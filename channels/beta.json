@@ -1,10 +1,10 @@
 {
-  "version": "0.11.7",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.7/EasyArch_0.11.7.zip",
-  "sha256": "3B3B6F9504CF93D4B9B8BFBA008347B96ABC702F92C0514071EA84F6A715E722",
+  "version": "0.11.8",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.8/EasyArch_0.11.8.zip",
+  "sha256": "0C443670CE71BB3A5667037E88F4992D8BE1E02424A7F8C6C0D26DAB026E21CF",
   "notes": {
-    "uz": "Yangi: Arxitektura → Hujjatlash → «Vitraj» — loyihadagi vitrajlar tip va o'lcham bo'yicha: har biriga ko'chadan ko'rinish, gabarit o'lchamlar, avtomatik marka (В-1…) va listlarga taxlash. Oynalar moslashuvchan: yozuvlar kesilmaydi. (Yangi tugma lentada Revit qayta ochilganda paydo bo'ladi.)",
-    "ru": "Новое: Архитектура → Документирование → «Витражи»: виды снаружи по типам и размерам, габариты, автомарки, листы. Адаптивные окна.",
-    "en": "New: Architecture → Documentation → Curtain walls: exterior views per type and size, overall dims, auto marks, sheets. Responsive windows."
+    "uz": "Qirqim va Mebel previewi: yoqiq tomon doirasini endi surib masofani o'zgartirish mumkin (doira yonida surish strelkalari, sichqoncha ↔/↕ ko'rinishiga o'tadi); joyida bir bosish — o'chiradi.",
+    "ru": "Превью разрезов и мебели: круг стороны можно перетаскивать (стрелки, курсор ↔/↕); щелчок на месте — выключает.",
+    "en": "Section/furniture preview: drag the side circle to change the offset (arrows, ↔/↕ cursor); click in place turns it off."
   }
 }
