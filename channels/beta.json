@@ -1,10 +1,10 @@
 {
-  "version": "0.12.26",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.26/EasyArch_0.12.26.zip",
-  "sha256": "2562D7FB9018D0FF6ECA4F085E922686C94B9B8B258CD576CC431F73E03E213D",
+  "version": "0.12.27",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.27/EasyArch_0.12.27.zip",
+  "sha256": "F834F5893DB94497B8CA5FF74939C985331244C83C8F1683FD65B6B043E1C66A",
   "notes": {
-    "uz": "Pog'ona: eskizda bo'lingan, bir chiziqda yotgan tomonlar bitta tomon sifatida ko'rsatiladi (bitta «+»).",
-    "ru": "Уступ: коллинеарные отрезки эскиза объединяются в одну сторону.",
-    "en": "Step: collinear sketch segments merged into one side."
+    "uz": "Pog'ona: previewda chetdagi qismlar o'lchami ko'rsatiladi",
+    "ru": "Ступень: в превью показываются размеры отступов по краям",
+    "en": "Step: preview shows edge inset dimensions"
   }
 }
