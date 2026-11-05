@@ -1,10 +1,10 @@
 {
-  "version": "0.12.3",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.3/EasyArch_0.12.3.zip",
-  "sha256": "A2C0141A76371F6C0E3C90FFCF3674E76CF86964A6F3C1C49B1B6EA1720F2D13",
+  "version": "0.12.4",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.4/EasyArch_0.12.4.zip",
+  "sha256": "DF2107F40016AF6DE97B512FCB5EDBB69233BEBCBCCF035636AE6C00264BB2D5",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: Photoshopdagidek rang tanlash (aylana, yorqinlik chizig'i, R/G/B va HEX — Tab bilan keyingisiga), rang sudralayotganda preview'da darhol o'zgaradi; oxirgi ranglar; ustun enini jadval ichidagi chiziqdan ham tortish, qator balandligini chapdagi raqamlar ustunidan tortish; ma'lumot qatorlari balandligi (hamma qatorga, «Высота строки»).",
-    "ru": "Дизайн спецификации: палитра как в Photoshop с живым превью, перетаскивание ширины и высоты, высота строк данных.",
-    "en": "Schedule design: Photoshop-like color wheel with live preview, drag column width / row height, data row height."
+    "uz": "Avto o'lcham (plan): xonaning umumiy o'lchamlari endi markazdan emas, devor yonidan o'tadi (L-shakl xonalarda ham xona ichida); eshik va oynalar asosiy devorda (pardoz devori orqasida) bo'lsa ham zanjirga olinadi; oilada Left/Right referensi bo'lmasa — devordagi proyom yon yuzalari ishlatiladi.",
+    "ru": "Авторазмеры (план): общие размеры у стены, а не по центру; двери в основной стене за отделкой тоже учитываются; при отсутствии опорных плоскостей — грани проёма.",
+    "en": "Auto dimensions (plan): overall dims near the wall, doors behind finish walls included, opening jamb faces as fallback."
   }
 }
