@@ -1,10 +1,10 @@
 {
-  "version": "0.12.14",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.14/EasyArch_0.12.14.zip",
-  "sha256": "AB0E1B7E6D9D60DA07ABEF1F718DB7946A9A9E1E98990529116216BF53739ABD",
+  "version": "0.12.15",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.15/EasyArch_0.12.15.zip",
+  "sha256": "A9F4E97ACDE6A56BA07CD63F67476ACDD005C12C573D4E8F8B3371BC459B6241",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: yo'l-yo'l qatorlar endi barcha ustunlarda ko'rinadi — avval plagin ustunlarga yozgan oq fon ularni yopib qo'yardi; fon endi faqat berilganda yoziladi.",
-    "ru": "Дизайн спецификации: чередование строк теперь во всех столбцах.",
-    "en": "Schedule design: striped rows now show in all columns."
+    "uz": "Spetsifikatsiya dizayni: ustun eni va qator balandligi endi preview'da — chegarani tortish yoki ustun harfi / qator raqamiga ikki marta bosib mm yozish (Enter); chap paneldagi maydonlar olib tashlandi.",
+    "ru": "Дизайн спецификации: ширина и высота — прямо в превью (перетаскивание или двойной щелчок).",
+    "en": "Schedule design: width/height edited in the preview (drag or double-click)."
   }
 }
