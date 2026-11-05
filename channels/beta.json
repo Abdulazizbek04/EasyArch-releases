@@ -1,10 +1,10 @@
 {
-  "version": "0.12.29",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.29/EasyArch_0.12.29.zip",
-  "sha256": "F59ADC92E65F4E9F0C166F1BE42CEA97D8ADB00EE299F062AAFC923F233E8810",
+  "version": "0.12.30",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.30/EasyArch_0.12.30.zip",
+  "sha256": "45233666E7C1EDED919E4142AE1F347A95679A5D3CCF2363EDD1C421943CBFC9",
   "notes": {
-    "uz": "Pog'ona: previewni g'ildirak bilan yaqinlashtirish, bo'sh joyni surib siljitish, 2 marta bosish — asl holat",
-    "ru": "Ступень: масштаб превью колесом мыши, перемещение перетаскиванием пустого места, двойной щелчок — сброс",
-    "en": "Step: zoom preview with mouse wheel, pan by dragging empty space, double-click to reset"
+    "uz": "Pog'ona: qisqa tomonlarni yashirish (ular qo'shnilariga ergashadi), Shift/Ctrl bilan bir nechta tomonni tanlash, ichki burchakda tasmalar bo'shliqsiz tutashadi",
+    "ru": "Ступень: скрытие коротких сторон (следуют за соседними), выбор нескольких сторон через Shift/Ctrl, полосы во внутренних углах смыкаются без зазора",
+    "en": "Step: hide short sides (they follow neighbours), multi-select sides with Shift/Ctrl, strips meet without gaps at inner corners"
   }
 }
