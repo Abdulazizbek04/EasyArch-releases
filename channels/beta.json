@@ -1,10 +1,10 @@
 {
-  "version": "0.12.35",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.35/EasyArch_0.12.35.zip",
-  "sha256": "A667C540E8FB09827811E7F42779DFD318CD57D821A02B05FE38E5CB683B813D",
+  "version": "0.12.36",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.36/EasyArch_0.12.36.zip",
+  "sha256": "3CBC0287E8A9E6A6CE9FFB6DD7267EF72647ECA1CF8D374C22439F641BBD6C42",
   "notes": {
-    "uz": "Yangi: Xonalar raqami (sinov) — har sath alohida, qatorlab/ustunlab/aylanib/qo'lda raqamlash, o'ngda jonli preview",
-    "ru": "Новое: Номера помещений (бета) — по уровням, по строкам/столбцам/по кругу/вручную, живое превью",
-    "en": "New: Room numbers (beta) — per level, by rows/columns/around/manual, live preview"
+    "uz": "Yangi (sinov): O'qlar — 1,2,3 va А,Б,В (GOST) bilan nomlash; Sathlar — shablon bo'yicha nomlash, rejalar ham",
+    "ru": "Новое (бета): Оси — 1,2,3 и А,Б,В (ГОСТ); Уровни — именование по шаблону, вместе с планами",
+    "en": "New (beta): Grids — 1,2,3 and A,B,C naming; Levels — template naming, plans too"
   }
 }
