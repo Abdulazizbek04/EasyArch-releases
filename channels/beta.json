@@ -1,10 +1,10 @@
 {
-  "version": "0.12.9",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.9/EasyArch_0.12.9.zip",
-  "sha256": "215ADDC0D4802A46C4973655A6AC30CAF189B58A63425F2CB5475F05AB6E3D3C",
+  "version": "0.12.10",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.10/EasyArch_0.12.10.zip",
+  "sha256": "557B77B55227682B68E62DBF6CED1CAD5FB39CCDE5DD1555FE9E8C7BE687D04C",
   "notes": {
-    "uz": "Qirqim/Fasad: kadr endi avtomatik — yon devorlar qalinligi to'liq kiradi (har uchi alohida o'lchanadi, L-shakl xonalarda ham), ko'rish chuqurligi devorning tashqi yuzasidan 600 mm keyingacha. «Yon devorlar» va «Devor ortini qirqish» qo'lda sozlamalari olib tashlandi.",
-    "ru": "Разрезы/фасады: рамка автоматически — боковые стены целиком (каждый конец отдельно, и в Г-образных помещениях), глубина — 600 мм за стеной.",
-    "en": "Sections/elevations: automatic crop — full side walls (each end measured), depth 600 mm beyond the wall."
+    "uz": "Qirqim/Fasad: kadr yon devorlarning tashqi yuzasigacha — ortiqcha zaxirasiz.",
+    "ru": "Разрезы: рамка ровно до наружной грани боковых стен.",
+    "en": "Sections: crop exactly to the outer face of side walls."
   }
 }
