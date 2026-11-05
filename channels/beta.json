@@ -1,10 +1,10 @@
 {
-  "version": "0.12.20",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.20/EasyArch_0.12.20.zip",
-  "sha256": "02E295957ED591D25A1457FD22946C2F222E8F15E29EE4A57FA571177F472A32",
+  "version": "0.12.21",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.21/EasyArch_0.12.21.zip",
+  "sha256": "7E1D812BBC4142ED03FAC4DEDBB133992E5C51014048CEF00F0110FB6042E447",
   "notes": {
-    "uz": "Bo'laklash → Devor: shaklli (profili o'zgartirilgan) devorlar butun balandligi bo'yicha bo'linadi; qayta ishlatilganda oldingi bo'linish olib tashlanadi — butun qism qolmaydi; boshlanish nuqtasi — devor sxemasida katakcha bilan; yozuvlar qisqartirildi.",
-    "ru": "Разбивка стены: фигурные стены по всей высоте, повторная разбивка без остатка целой части, наглядный выбор точки начала.",
-    "en": "Wall split: shaped walls full height, re-run replaces old division, visual start point."
+    "uz": "Bo'laklash → Devor (Qismlar): qayta bo'lishda faqat oldingi bo'linish olib tashlanadi; bo'linmay qolgan devor hisobotda ko'rsatiladi, natija jurnalga yoziladi.",
+    "ru": "Разбивка стены (части): надёжная повторная разбивка, отчёт о неразделённых стенах.",
+    "en": "Wall split (parts): safer re-run, report for walls not divided."
   }
 }
