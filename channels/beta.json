@@ -1,10 +1,10 @@
 {
-  "version": "0.12.15",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.15/EasyArch_0.12.15.zip",
-  "sha256": "A9F4E97ACDE6A56BA07CD63F67476ACDD005C12C573D4E8F8B3371BC459B6241",
+  "version": "0.12.16",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.16/EasyArch_0.12.16.zip",
+  "sha256": "CDC371A7E84CB4A9CDD2483FB4BBC806810EB6863801F321B77676D4F32C681A",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ustun eni va qator balandligi endi preview'da — chegarani tortish yoki ustun harfi / qator raqamiga ikki marta bosib mm yozish (Enter); chap paneldagi maydonlar olib tashlandi.",
-    "ru": "Дизайн спецификации: ширина и высота — прямо в превью (перетаскивание или двойной щелчок).",
-    "en": "Schedule design: width/height edited in the preview (drag or double-click)."
+    "uz": "Spetsifikatsiya dizayni: yordamchi matnlar olib tashlandi (shablonlar maslahati — sarlavha ustida).",
+    "ru": "Дизайн спецификации: убраны подсказки.",
+    "en": "Schedule design: helper texts removed."
   }
 }
