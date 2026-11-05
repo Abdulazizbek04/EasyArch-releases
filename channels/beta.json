@@ -1,10 +1,10 @@
 {
-  "version": "0.12.31",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.31/EasyArch_0.12.31.zip",
-  "sha256": "802717411AE0B5E63E4E555FAE9594A8DADD89F68540B06AAD93BCB54CE29234",
+  "version": "0.12.32",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.32/EasyArch_0.12.32.zip",
+  "sha256": "5EE8261D8FA3CF9D3136B384B5B6286FAD1BDF839799AAF2A6624081FA66F9B0",
   "notes": {
-    "uz": "Pog'ona: tomondagi qisqa tasmani chetdagi kvadratdan tashqariga cho'zish mumkin; qisqa tomonlarni yashirish, Shift/Ctrl bilan bir nechta tomon, ichki burchakda tasmalar bo'shliqsiz tutashadi",
-    "ru": "Ступень: полосу можно вытянуть за конец стороны; скрытие коротких сторон, выбор нескольких сторон через Shift/Ctrl, полосы во внутренних углах смыкаются",
-    "en": "Step: strips can be extended past side ends; hide short sides, Shift/Ctrl multi-select, strips meet at inner corners"
+    "uz": "Pog'ona: qisqa sinishlar orqali tutashgan tomonlar ofseti birga o'zgaradi; uchlarni surishda qo'shni tasma uchlari va burchaklarga yopishadi",
+    "ru": "Ступень: стороны, связанные короткими изломами, меняют отступ вместе; концы прилипают к соседним полосам и углам",
+    "en": "Step: sides joined by short jogs share the offset; dragged ends snap to neighbouring strip ends and corners"
   }
 }
