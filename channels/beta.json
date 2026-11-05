@@ -1,10 +1,10 @@
 {
-  "version": "0.12.34",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.34/EasyArch_0.12.34.zip",
-  "sha256": "1B67823373021DD03C2CA877861877C3F0B39666B9A9C81D399AF33DFB0B5727",
+  "version": "0.12.35",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.35/EasyArch_0.12.35.zip",
+  "sha256": "A667C540E8FB09827811E7F42779DFD318CD57D821A02B05FE38E5CB683B813D",
   "notes": {
-    "uz": "Marka: qiymat maydonida loyihadagi qiymatlar ro'yxati (strelka); ekzemplyar markasini raqamlash tanlovi",
-    "ru": "Марки: список значений из проекта в поле значения (стрелка); нумерация марки экземпляра",
-    "en": "Marks: project values dropdown for the value field; instance mark numbering option"
+    "uz": "Yangi: Xonalar raqami (sinov) — har sath alohida, qatorlab/ustunlab/aylanib/qo'lda raqamlash, o'ngda jonli preview",
+    "ru": "Новое: Номера помещений (бета) — по уровням, по строкам/столбцам/по кругу/вручную, живое превью",
+    "en": "New: Room numbers (beta) — per level, by rows/columns/around/manual, live preview"
   }
 }
