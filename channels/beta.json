@@ -1,10 +1,10 @@
 {
-  "version": "0.12.10",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.10/EasyArch_0.12.10.zip",
-  "sha256": "557B77B55227682B68E62DBF6CED1CAD5FB39CCDE5DD1555FE9E8C7BE687D04C",
+  "version": "0.12.11",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.11/EasyArch_0.12.11.zip",
+  "sha256": "74A6A0AA4AE75BD6E20A43BFEEC30D8E7ED7D8E83EBC139D6B2D85DB4A6F0D49",
   "notes": {
-    "uz": "Qirqim/Fasad: kadr yon devorlarning tashqi yuzasigacha — ortiqcha zaxirasiz.",
-    "ru": "Разрезы: рамка ровно до наружной грани боковых стен.",
-    "en": "Sections: crop exactly to the outer face of side walls."
+    "uz": "Spetsifikatsiya dizayni: «Boshlang'ich holatga» — faqat shu oynadagi o'zgarishlarni bekor qiladi, oldin bergan ranglar saqlanadi (loyihaga hech narsa yozilmaydi, «Orqaga» bilan qaytariladi).",
+    "ru": "Дизайн спецификации: «Как было при открытии» отменяет только изменения в окне.",
+    "en": "Schedule design: Back to start undoes only this window's changes."
   }
 }
