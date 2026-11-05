@@ -1,10 +1,10 @@
 {
-  "version": "0.12.13",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.13/EasyArch_0.12.13.zip",
-  "sha256": "CFEBED8102B50C1504438D1275FA137D574B5ABD56088219793DBBFA99C6594C",
+  "version": "0.12.14",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.14/EasyArch_0.12.14.zip",
+  "sha256": "AB0E1B7E6D9D60DA07ABEF1F718DB7946A9A9E1E98990529116216BF53739ABD",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ustunning bir qismi belgilansa — sozlamalar yashiriladi va butun ustunni (harfini bosib) belgilash so'raladi, chunki Revit ma'lumot kataklariga uslubni faqat butun ustun bo'yicha beradi; sarlavha va shapka kataklari — har biri alohida. Jurnalga chegara natijalari ham yoziladi.",
-    "ru": "Дизайн спецификации: при частичном выделении столбца настройки скрыты — выделите весь столбец.",
-    "en": "Schedule design: partial column selection hides settings — select the whole column."
+    "uz": "Spetsifikatsiya dizayni: yo'l-yo'l qatorlar endi barcha ustunlarda ko'rinadi — avval plagin ustunlarga yozgan oq fon ularni yopib qo'yardi; fon endi faqat berilganda yoziladi.",
+    "ru": "Дизайн спецификации: чередование строк теперь во всех столбцах.",
+    "en": "Schedule design: striped rows now show in all columns."
   }
 }
