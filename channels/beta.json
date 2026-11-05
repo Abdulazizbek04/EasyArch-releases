@@ -1,10 +1,10 @@
 {
-  "version": "0.12.25",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.25/EasyArch_0.12.25.zip",
-  "sha256": "13FEBD2AD4B0901BC0A38F8C337F2240C40F7368912918971269643E86A19828",
+  "version": "0.12.26",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.26/EasyArch_0.12.26.zip",
+  "sha256": "2562D7FB9018D0FF6ECA4F085E922686C94B9B8B258CD576CC431F73E03E213D",
   "notes": {
-    "uz": "Yangi (sinov): Ichki dizayn → «Pog'ona» → Pol / Shift — tanlangan tomonlardan ofset bilan bo'lish: preview'da tomonni bosish, doirani surib eni, uchlaridagi kvadratlarni surib uchlarini boshqarish; yangi bo'lak shu turda, balandligi ± siljiydi; qolgan qism — asl elementning o'zi.",
-    "ru": "Новое (тест): Дизайн интерьера → «Уступ» → Пол / Потолок.",
-    "en": "New (beta): Interior → Step → Floor / Ceiling."
+    "uz": "Pog'ona: eskizda bo'lingan, bir chiziqda yotgan tomonlar bitta tomon sifatida ko'rsatiladi (bitta «+»).",
+    "ru": "Уступ: коллинеарные отрезки эскиза объединяются в одну сторону.",
+    "en": "Step: collinear sketch segments merged into one side."
   }
 }
