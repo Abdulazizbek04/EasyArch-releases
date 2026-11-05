@@ -1,10 +1,10 @@
 {
-  "version": "0.12.11",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.11/EasyArch_0.12.11.zip",
-  "sha256": "74A6A0AA4AE75BD6E20A43BFEEC30D8E7ED7D8E83EBC139D6B2D85DB4A6F0D49",
+  "version": "0.12.12",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.12/EasyArch_0.12.12.zip",
+  "sha256": "F0A3A59DF6B2E42D54DD5A5D2975C1FF925337D5868FF4E09738EA5BD6B98D26",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: «Boshlang'ich holatga» — faqat shu oynadagi o'zgarishlarni bekor qiladi, oldin bergan ranglar saqlanadi (loyihaga hech narsa yozilmaydi, «Orqaga» bilan qaytariladi).",
-    "ru": "Дизайн спецификации: «Как было при открытии» отменяет только изменения в окне.",
-    "en": "Schedule design: Back to start undoes only this window's changes."
+    "uz": "Spetsifikatsiya dizayni: ustun belgilanganda ham «Fon» chiqadi — fon ustunning sarlavha va shapka kataklariga beriladi (ma'lumot qatorlariga Revit fonni ko'rsatmaydi).",
+    "ru": "Дизайн спецификации: заливка доступна при выделении столбца — красятся заголовок и шапка.",
+    "en": "Schedule design: fill available when a column is selected — applied to title/header cells."
   }
 }
