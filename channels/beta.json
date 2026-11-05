@@ -1,10 +1,10 @@
 {
-  "version": "0.12.30",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.30/EasyArch_0.12.30.zip",
-  "sha256": "45233666E7C1EDED919E4142AE1F347A95679A5D3CCF2363EDD1C421943CBFC9",
+  "version": "0.12.31",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.31/EasyArch_0.12.31.zip",
+  "sha256": "802717411AE0B5E63E4E555FAE9594A8DADD89F68540B06AAD93BCB54CE29234",
   "notes": {
-    "uz": "Pog'ona: qisqa tomonlarni yashirish (ular qo'shnilariga ergashadi), Shift/Ctrl bilan bir nechta tomonni tanlash, ichki burchakda tasmalar bo'shliqsiz tutashadi",
-    "ru": "Ступень: скрытие коротких сторон (следуют за соседними), выбор нескольких сторон через Shift/Ctrl, полосы во внутренних углах смыкаются без зазора",
-    "en": "Step: hide short sides (they follow neighbours), multi-select sides with Shift/Ctrl, strips meet without gaps at inner corners"
+    "uz": "Pog'ona: tomondagi qisqa tasmani chetdagi kvadratdan tashqariga cho'zish mumkin; qisqa tomonlarni yashirish, Shift/Ctrl bilan bir nechta tomon, ichki burchakda tasmalar bo'shliqsiz tutashadi",
+    "ru": "Ступень: полосу можно вытянуть за конец стороны; скрытие коротких сторон, выбор нескольких сторон через Shift/Ctrl, полосы во внутренних углах смыкаются",
+    "en": "Step: strips can be extended past side ends; hide short sides, Shift/Ctrl multi-select, strips meet at inner corners"
   }
 }
