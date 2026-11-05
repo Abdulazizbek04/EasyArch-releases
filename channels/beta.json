@@ -1,10 +1,10 @@
 {
-  "version": "0.12.12",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.12/EasyArch_0.12.12.zip",
-  "sha256": "F0A3A59DF6B2E42D54DD5A5D2975C1FF925337D5868FF4E09738EA5BD6B98D26",
+  "version": "0.12.13",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.13/EasyArch_0.12.13.zip",
+  "sha256": "CFEBED8102B50C1504438D1275FA137D574B5ABD56088219793DBBFA99C6594C",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ustun belgilanganda ham «Fon» chiqadi — fon ustunning sarlavha va shapka kataklariga beriladi (ma'lumot qatorlariga Revit fonni ko'rsatmaydi).",
-    "ru": "Дизайн спецификации: заливка доступна при выделении столбца — красятся заголовок и шапка.",
-    "en": "Schedule design: fill available when a column is selected — applied to title/header cells."
+    "uz": "Spetsifikatsiya dizayni: ustunning bir qismi belgilansa — sozlamalar yashiriladi va butun ustunni (harfini bosib) belgilash so'raladi, chunki Revit ma'lumot kataklariga uslubni faqat butun ustun bo'yicha beradi; sarlavha va shapka kataklari — har biri alohida. Jurnalga chegara natijalari ham yoziladi.",
+    "ru": "Дизайн спецификации: при частичном выделении столбца настройки скрыты — выделите весь столбец.",
+    "en": "Schedule design: partial column selection hides settings — select the whole column."
   }
 }
