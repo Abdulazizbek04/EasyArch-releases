@@ -1,10 +1,10 @@
 {
-  "version": "0.12.19",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.19/EasyArch_0.12.19.zip",
-  "sha256": "92648101DACE3FD05A34AD96F1A9ADC2C3BB6540A93CED95C6D245A6B072DC45",
+  "version": "0.12.20",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.20/EasyArch_0.12.20.zip",
+  "sha256": "02E295957ED591D25A1457FD22946C2F222E8F15E29EE4A57FA571177F472A32",
   "notes": {
-    "uz": "Yangi (sinov): Arxitektura → Bo'laklash → «Devor»: devorni balandligi bo'yicha (o'z o'lchami yoki qavatlar kesimida) alohida devorlarga bo'lish — eshik/oynalar saqlanadi, ulanishlar o'chiriladi; yoki Revit qismlari («Части») — eni × bo'yi to'r, choc, boshlanish nuqtasi (3×3).",
-    "ru": "Новое (тест): Архитектура → Разбивка → «Стена»: по высоте на отдельные стены или на части (сетка, шов, точка начала).",
-    "en": "New (beta): Architecture → Split → Wall: by height into walls, or into parts (grid, gap, start point)."
+    "uz": "Bo'laklash → Devor: shaklli (profili o'zgartirilgan) devorlar butun balandligi bo'yicha bo'linadi; qayta ishlatilganda oldingi bo'linish olib tashlanadi — butun qism qolmaydi; boshlanish nuqtasi — devor sxemasida katakcha bilan; yozuvlar qisqartirildi.",
+    "ru": "Разбивка стены: фигурные стены по всей высоте, повторная разбивка без остатка целой части, наглядный выбор точки начала.",
+    "en": "Wall split: shaped walls full height, re-run replaces old division, visual start point."
   }
 }
