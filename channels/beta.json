@@ -1,10 +1,10 @@
 {
-  "version": "0.12.18",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.18/EasyArch_0.12.18.zip",
-  "sha256": "9A00A4492ACDE18A1BCC22D53F2DABEBBDB979F20ECF092F4882BAFDE6A95517",
+  "version": "0.12.19",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.19/EasyArch_0.12.19.zip",
+  "sha256": "92648101DACE3FD05A34AD96F1A9ADC2C3BB6540A93CED95C6D245A6B072DC45",
   "notes": {
-    "uz": "Yangi: Ichki dizayn → «Ko'rish diapazoni» — bitta diapazonni ko'p shablon va rejaga birdaniga berish; Arxitektura → Hujjatlash → «Eshik» va «Oyna» — tiplar bo'yicha ko'chadan ko'rinish, gabarit o'lcham, avtomatik marka va listlar. (Yangi tugmalar — Revit qayta ochilgach.)",
-    "ru": "Новое: «Секущий диапазон» для многих видов; «Оформление → Двери / Окна».",
-    "en": "New: View range for many views; Documentation → Doors / Windows."
+    "uz": "Yangi (sinov): Arxitektura → Bo'laklash → «Devor»: devorni balandligi bo'yicha (o'z o'lchami yoki qavatlar kesimida) alohida devorlarga bo'lish — eshik/oynalar saqlanadi, ulanishlar o'chiriladi; yoki Revit qismlari («Части») — eni × bo'yi to'r, choc, boshlanish nuqtasi (3×3).",
+    "ru": "Новое (тест): Архитектура → Разбивка → «Стена»: по высоте на отдельные стены или на части (сетка, шов, точка начала).",
+    "en": "New (beta): Architecture → Split → Wall: by height into walls, or into parts (grid, gap, start point)."
   }
 }
