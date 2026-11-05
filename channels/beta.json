@@ -1,10 +1,10 @@
 {
-  "version": "0.12.6",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.6/EasyArch_0.12.6.zip",
-  "sha256": "0D59306AEF8A38F78F662B5A23DBB7E0A5EF586E5BA88798EAE60E463483377C",
+  "version": "0.12.7",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.7/EasyArch_0.12.7.zip",
+  "sha256": "B95E3D844D7B4FFBFEDCE716E7574C7B4849FF7CA8DC587444FD59F567CE580A",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ma'lumot qatorlariga fon berish o'chirildi — Revit uni saqlasa ham ko'rsatmaydi (jurnal bilan tasdiqlandi); qatorlarni bo'yash uchun «Yo'l-yo'l qatorlar». Preview Revitdagidek ko'rsatadi.",
-    "ru": "Дизайн спецификации: заливка строк данных отключена (Revit её не отображает), используйте чередование строк.",
-    "en": "Schedule design: data row fill disabled (Revit doesn't display it); use striped rows."
+    "uz": "Yangi (sinov): Ichki dizayn → «Ko'rish diapazoni» — bitta diapazonni tanlangan shablonlar va shablonsiz rejalarga birdaniga berish. Spetsifikatsiya dizayni: fon rangi faqat sarlavha belgilanganda ko'rinadi.",
+    "ru": "Новое (тест): Дизайн интерьера → «Секущий диапазон» для многих шаблонов и планов сразу. Дизайн спецификации: заливка только для заголовка.",
+    "en": "New (beta): Interior → View range for many templates and plans at once. Schedule design: fill only for the title."
   }
 }
