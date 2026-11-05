@@ -1,10 +1,10 @@
 {
-  "version": "0.12.28",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.28/EasyArch_0.12.28.zip",
-  "sha256": "ACFB5AA604A7F23A63A714EDBD0603E944FE3D2142EB7FA482A9385EDF0CCF1B",
+  "version": "0.12.29",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.29/EasyArch_0.12.29.zip",
+  "sha256": "F59ADC92E65F4E9F0C166F1BE42CEA97D8ADB00EE299F062AAFC923F233E8810",
   "notes": {
-    "uz": "Pog'ona: previewda chetdagi qismlar o'lchami. Yangilanish darhol ko'rinadi (keshsiz tekshirish)",
-    "ru": "Ступень: размеры отступов по краям в превью. Обновления видны сразу (проверка без кэша)",
-    "en": "Step: edge inset dimensions in preview. Updates are detected immediately (no cache)"
+    "uz": "Pog'ona: previewni g'ildirak bilan yaqinlashtirish, bo'sh joyni surib siljitish, 2 marta bosish — asl holat",
+    "ru": "Ступень: масштаб превью колесом мыши, перемещение перетаскиванием пустого места, двойной щелчок — сброс",
+    "en": "Step: zoom preview with mouse wheel, pan by dragging empty space, double-click to reset"
   }
 }
