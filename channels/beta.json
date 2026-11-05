@@ -1,10 +1,10 @@
 {
-  "version": "0.12.4",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.4/EasyArch_0.12.4.zip",
-  "sha256": "DF2107F40016AF6DE97B512FCB5EDBB69233BEBCBCCF035636AE6C00264BB2D5",
+  "version": "0.12.5",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.5/EasyArch_0.12.5.zip",
+  "sha256": "AF0F6C91A42934BB99E24780A7032CC288E84EA05D1840255E9527101B6CEAA2",
   "notes": {
-    "uz": "Avto o'lcham (plan): xonaning umumiy o'lchamlari endi markazdan emas, devor yonidan o'tadi (L-shakl xonalarda ham xona ichida); eshik va oynalar asosiy devorda (pardoz devori orqasida) bo'lsa ham zanjirga olinadi; oilada Left/Right referensi bo'lmasa — devordagi proyom yon yuzalari ishlatiladi.",
-    "ru": "Авторазмеры (план): общие размеры у стены, а не по центру; двери в основной стене за отделкой тоже учитываются; при отсутствии опорных плоскостей — грани проёма.",
-    "en": "Auto dimensions (plan): overall dims near the wall, doors behind finish walls included, opening jamb faces as fallback."
+    "uz": "Spetsifikatsiya dizayni: ko'rinish shabloni avtomatik uziladi; «Ichki setka chiziqlari» tugmasi (listda o'rta chiziqlarni olib tashlaydi); yo'l-yo'l qatorlar — yoqilganda ikkita dumaloq palitra, jonli preview; Revit fonni ko'rsatmasa — aniq ogohlantirish; jurnalga en, fon va uslub natijalari yoziladi. Sozlamalarda «Jurnalni ochish» tugmasi.",
+    "ru": "Дизайн спецификации: отключение шаблона вида, переключатель линий сетки, палитры для чередования строк, журнал.",
+    "en": "Schedule design: template detach, grid lines switch, color wheels for striped rows, logging."
   }
 }
