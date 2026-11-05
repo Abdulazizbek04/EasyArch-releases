@@ -1,10 +1,10 @@
 {
-  "version": "0.11.7",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.11.7/EasyArch_0.11.7.zip",
-  "sha256": "3B3B6F9504CF93D4B9B8BFBA008347B96ABC702F92C0514071EA84F6A715E722",
+  "version": "0.12.17",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.17/EasyArch_0.12.17.zip",
+  "sha256": "50491B374F760D2C364CB3EE85591487C09DCF95BDC69B15C16236C730453D95",
   "notes": {
-    "uz": "Yangi: Arxitektura → Hujjatlash → «Vitraj» — loyihadagi vitrajlar tip va o'lcham bo'yicha: har biriga ko'chadan ko'rinish, gabarit o'lchamlar, avtomatik marka (В-1…) va listlarga taxlash. Oynalar moslashuvchan: yozuvlar kesilmaydi. (Yangi tugma lentada Revit qayta ochilganda paydo bo'ladi.)",
-    "ru": "Новое: Архитектура → Документирование → «Витражи»: виды снаружи по типам и размерам, габариты, автомарки, листы. Адаптивные окна.",
-    "en": "New: Architecture → Documentation → Curtain walls: exterior views per type and size, overall dims, auto marks, sheets. Responsive windows."
+    "uz": "Yangi: Arxitektura → Spetsifikatsiya → «Spetsifikatsiya dizayni» — Excelga o'xshash oynada shrift, rang (aylana palitra), tekislash, chegaralar, ustun eni / qator balandligi, birlashtirish, yo'l-yo'l qatorlar, shablonlar. Tuzatishlar: Qirqim/Fasad kadri yon devorlarni to'liq oladi, chuqurlik devordan 600 mm keyin; Avto o'lcham va Hujjatlash yaxshilandi. (Yangi tugma — Revit qayta ochilgach.)",
+    "ru": "Новое: «Дизайн спецификации». Исправления разрезов (боковые стены целиком, глубина 600 мм за стеной).",
+    "en": "New: Schedule design. Fixes: section crop includes full side walls, depth 600 mm beyond the wall."
   }
 }

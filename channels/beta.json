@@ -1,10 +1,10 @@
 {
-  "version": "0.12.16",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.16/EasyArch_0.12.16.zip",
-  "sha256": "CDC371A7E84CB4A9CDD2483FB4BBC806810EB6863801F321B77676D4F32C681A",
+  "version": "0.12.17",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.17/EasyArch_0.12.17.zip",
+  "sha256": "50491B374F760D2C364CB3EE85591487C09DCF95BDC69B15C16236C730453D95",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: yordamchi matnlar olib tashlandi (shablonlar maslahati — sarlavha ustida).",
-    "ru": "Дизайн спецификации: убраны подсказки.",
-    "en": "Schedule design: helper texts removed."
+    "uz": "Yangi: Arxitektura → Spetsifikatsiya → «Spetsifikatsiya dizayni» — Excelga o'xshash oynada shrift, rang (aylana palitra), tekislash, chegaralar, ustun eni / qator balandligi, birlashtirish, yo'l-yo'l qatorlar, shablonlar. Tuzatishlar: Qirqim/Fasad kadri yon devorlarni to'liq oladi, chuqurlik devordan 600 mm keyin; Avto o'lcham va Hujjatlash yaxshilandi. (Yangi tugma — Revit qayta ochilgach.)",
+    "ru": "Новое: «Дизайн спецификации». Исправления разрезов (боковые стены целиком, глубина 600 мм за стеной).",
+    "en": "New: Schedule design. Fixes: section crop includes full side walls, depth 600 mm beyond the wall."
   }
 }
