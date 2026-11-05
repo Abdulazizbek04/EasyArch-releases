@@ -1,10 +1,10 @@
 {
-  "version": "0.12.32",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.32/EasyArch_0.12.32.zip",
-  "sha256": "5EE8261D8FA3CF9D3136B384B5B6286FAD1BDF839799AAF2A6624081FA66F9B0",
+  "version": "0.12.33",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.33/EasyArch_0.12.33.zip",
+  "sha256": "399D66F7A46D47F4A311701D5EE5164085F936BCB50027C25115530EC504971A",
   "notes": {
-    "uz": "Pog'ona: qisqa sinishlar orqali tutashgan tomonlar ofseti birga o'zgaradi; uchlarni surishda qo'shni tasma uchlari va burchaklarga yopishadi",
-    "ru": "Ступень: стороны, связанные короткими изломами, меняют отступ вместе; концы прилипают к соседним полосам и углам",
-    "en": "Step: sides joined by short jogs share the offset; dragged ends snap to neighbouring strip ends and corners"
+    "uz": "Xona tanlash va tomonlar previewlarida yaqinlashtirish: g'ildirak — zoom, bo'sh joyni surish — siljitish, 2 marta bosish — asl holat",
+    "ru": "Масштаб в превью выбора помещений и сторон: колесо — масштаб, перетаскивание пустого места — сдвиг, двойной щелчок — сброс",
+    "en": "Zoom in room picker and side previews: wheel to zoom, drag empty space to pan, double-click to reset"
   }
 }
