@@ -1,10 +1,10 @@
 {
-  "version": "0.12.21",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.21/EasyArch_0.12.21.zip",
-  "sha256": "7E1D812BBC4142ED03FAC4DEDBB133992E5C51014048CEF00F0110FB6042E447",
+  "version": "0.12.22",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.22/EasyArch_0.12.22.zip",
+  "sha256": "D1273A98011224DC3BFAFCDD07BF420EC39240D6B1A19CE2AA7D4C543F6279AD",
   "notes": {
-    "uz": "Bo'laklash → Devor (Qismlar): qayta bo'lishda faqat oldingi bo'linish olib tashlanadi; bo'linmay qolgan devor hisobotda ko'rsatiladi, natija jurnalga yoziladi.",
-    "ru": "Разбивка стены (части): надёжная повторная разбивка, отчёт о неразделённых стенах.",
-    "en": "Wall split (parts): safer re-run, report for walls not divided."
+    "uz": "Bo'laklash → Devor (Qismlar): ko'zga ko'rinmaydigan mayda bo'laklar (masalan eshik ostidagi tor tasma yoki egri chetdagi qirindi) avtomatik qo'shni bo'lakka qo'shiladi — spetsifikatsiyadagi son ko'rinadigan bo'laklar soniga mos keladi. Chegara sozlanadi (standart 100 mm).",
+    "ru": "Разбивка стены (части): мелкие части автоматически присоединяются к соседним (по умолчанию < 100 мм).",
+    "en": "Wall split (parts): tiny pieces merged into neighbours (default < 100 mm)."
   }
 }
