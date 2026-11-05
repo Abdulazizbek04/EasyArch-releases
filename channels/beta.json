@@ -1,10 +1,10 @@
 {
-  "version": "0.12.5",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.5/EasyArch_0.12.5.zip",
-  "sha256": "AF0F6C91A42934BB99E24780A7032CC288E84EA05D1840255E9527101B6CEAA2",
+  "version": "0.12.6",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.6/EasyArch_0.12.6.zip",
+  "sha256": "0D59306AEF8A38F78F662B5A23DBB7E0A5EF586E5BA88798EAE60E463483377C",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ko'rinish shabloni avtomatik uziladi; «Ichki setka chiziqlari» tugmasi (listda o'rta chiziqlarni olib tashlaydi); yo'l-yo'l qatorlar — yoqilganda ikkita dumaloq palitra, jonli preview; Revit fonni ko'rsatmasa — aniq ogohlantirish; jurnalga en, fon va uslub natijalari yoziladi. Sozlamalarda «Jurnalni ochish» tugmasi.",
-    "ru": "Дизайн спецификации: отключение шаблона вида, переключатель линий сетки, палитры для чередования строк, журнал.",
-    "en": "Schedule design: template detach, grid lines switch, color wheels for striped rows, logging."
+    "uz": "Spetsifikatsiya dizayni: ma'lumot qatorlariga fon berish o'chirildi — Revit uni saqlasa ham ko'rsatmaydi (jurnal bilan tasdiqlandi); qatorlarni bo'yash uchun «Yo'l-yo'l qatorlar». Preview Revitdagidek ko'rsatadi.",
+    "ru": "Дизайн спецификации: заливка строк данных отключена (Revit её не отображает), используйте чередование строк.",
+    "en": "Schedule design: data row fill disabled (Revit doesn't display it); use striped rows."
   }
 }
