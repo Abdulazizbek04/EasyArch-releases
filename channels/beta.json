@@ -1,10 +1,10 @@
 {
-  "version": "0.12.2",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.2/EasyArch_0.12.2.zip",
-  "sha256": "5997A22F2FDCCE9BD6AD0E7D6A433F4AEC7BB6544E19942E3F531A0D754D8FB2",
+  "version": "0.12.3",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.3/EasyArch_0.12.3.zip",
+  "sha256": "A2C0141A76371F6C0E3C90FFCF3674E76CF86964A6F3C1C49B1B6EA1720F2D13",
   "notes": {
-    "uz": "Spetsifikatsiya dizayni: ustun (ma'lumot qatorlari) uslubi Revitga yozilish tartibi tuzatildi — fon, shrift, rang va tekislash endi loyihada ham chiqishi kerak; natija jurnalga yoziladi.",
-    "ru": "Дизайн спецификации: исправлена запись стиля столбцов в Revit.",
-    "en": "Schedule design: fixed writing column styles to Revit."
+    "uz": "Spetsifikatsiya dizayni: Photoshopdagidek rang tanlash (aylana, yorqinlik chizig'i, R/G/B va HEX — Tab bilan keyingisiga), rang sudralayotganda preview'da darhol o'zgaradi; oxirgi ranglar; ustun enini jadval ichidagi chiziqdan ham tortish, qator balandligini chapdagi raqamlar ustunidan tortish; ma'lumot qatorlari balandligi (hamma qatorga, «Высота строки»).",
+    "ru": "Дизайн спецификации: палитра как в Photoshop с живым превью, перетаскивание ширины и высоты, высота строк данных.",
+    "en": "Schedule design: Photoshop-like color wheel with live preview, drag column width / row height, data row height."
   }
 }
