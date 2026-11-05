@@ -1,10 +1,10 @@
 {
-  "version": "0.12.7",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.7/EasyArch_0.12.7.zip",
-  "sha256": "B95E3D844D7B4FFBFEDCE716E7574C7B4849FF7CA8DC587444FD59F567CE580A",
+  "version": "0.12.8",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.8/EasyArch_0.12.8.zip",
+  "sha256": "26DE1B62ACEB99A649C6FAD486DA990AC4A3DB2B09E6631056D975AE25E3535E",
   "notes": {
-    "uz": "Yangi (sinov): Ichki dizayn → «Ko'rish diapazoni» — bitta diapazonni tanlangan shablonlar va shablonsiz rejalarga birdaniga berish. Spetsifikatsiya dizayni: fon rangi faqat sarlavha belgilanganda ko'rinadi.",
-    "ru": "Новое (тест): Дизайн интерьера → «Секущий диапазон» для многих шаблонов и планов сразу. Дизайн спецификации: заливка только для заголовка.",
-    "en": "New (beta): Interior → View range for many templates and plans at once. Schedule design: fill only for the title."
+    "uz": "Ko'rish diapazoni va Hujjatlash ro'yxatlarida Shift bilan bir nechtasini belgilash: birinchisini, keyin Shift bilan oxirgisini bosing — oradagilar ham belgilanadi. Qatorlarni Shift/Ctrl bilan ajratib, bittasining katakchasini bossangiz — hammasiga qo'llanadi.",
+    "ru": "Списки «Секущий диапазон» и «Оформление»: отметка диапазона с Shift.",
+    "en": "View range and Documentation lists: Shift-click range checking."
   }
 }
