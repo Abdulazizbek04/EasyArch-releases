@@ -1,10 +1,10 @@
 {
-  "version": "0.12.36",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.36/EasyArch_0.12.36.zip",
-  "sha256": "3CBC0287E8A9E6A6CE9FFB6DD7267EF72647ECA1CF8D374C22439F641BBD6C42",
+  "version": "0.12.37",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.37/EasyArch_0.12.37.zip",
+  "sha256": "9B8DE0B3A1CB2770E040C05ACFC526F493F3B80A3BB0A820682E16C294BF8E83",
   "notes": {
-    "uz": "Yangi (sinov): O'qlar — 1,2,3 va А,Б,В (GOST) bilan nomlash; Sathlar — shablon bo'yicha nomlash, rejalar ham",
-    "ru": "Новое (бета): Оси — 1,2,3 и А,Б,В (ГОСТ); Уровни — именование по шаблону, вместе с планами",
-    "en": "New (beta): Grids — 1,2,3 and A,B,C naming; Levels — template naming, plans too"
+    "uz": "Lenta ixchamlashtirildi: kichik tugmalar ustunga 3 tadan; Profillarni yangilash — alohida kichik tugma (Revitni qayta oching)",
+    "ru": "Компактная лента: маленькие кнопки по 3 в столбце; Обновить профили — отдельная кнопка (перезапустите Revit)",
+    "en": "Compact ribbon: small buttons stacked 3 per column; Update profiles is a separate button (restart Revit)"
   }
 }
