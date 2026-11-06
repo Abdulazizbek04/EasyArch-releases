@@ -1,10 +1,10 @@
 {
-  "version": "0.12.44",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.44/EasyArch_0.12.44.zip",
-  "sha256": "46265EF76D66D2322E33BFBECC8C7319F071012ECB5F2EE07C2A650F49387BC9",
+  "version": "0.12.45",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.45/EasyArch_0.12.45.zip",
+  "sha256": "2A8D12E6C156006F09982E3DCABD062A9DDC25B22883506CB6D82783466BA064",
   "notes": {
-    "uz": "Marka: «O'lcham bo'yicha» rejimi — bir xil o'lchamdagi devor/panellar bitta marka oladi (sendvich panellar uchun)",
-    "ru": "Марки: режим «По размеру» — одинаковые по размеру стены/панели получают одну марку (для сэндвич-панелей)",
-    "en": "Marks: 'By size' mode — walls/panels of the same size share one mark (for sandwich panels)"
+    "uz": "Marka: shart ro'yxati kengaytirildi (teng, teng emas, katta, kichik, tugaydi, qiymati bor/yo'q va h.k. — Revitdagidek)",
+    "ru": "Марки: больше вариантов условия (равно, не равно, больше, меньше, заканчивается, имеет значение и т.д. — как в Revit)",
+    "en": "Marks: more condition operators (equals, not equals, greater, less, ends with, has value, etc. — like Revit)"
   }
 }
