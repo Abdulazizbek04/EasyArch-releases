@@ -1,10 +1,10 @@
 {
-  "version": "0.12.38",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.38/EasyArch_0.12.38.zip",
-  "sha256": "E8B5476F240F6C2CC767176E39C534945B391C35E1B551528875E3BA14E72348",
+  "version": "0.12.39",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.39/EasyArch_0.12.39.zip",
+  "sha256": "C2FEC4111F9DE49DD5BBB1071BFF8274196C80B32B0091A97D5D27C24B91D9D6",
   "notes": {
-    "uz": "Yangi ikonkalar: har bir buyruq o'z vazifasini ko'rsatadi; kichik ikonkalar kattaroq va aniqroq (Revitni qayta oching)",
-    "ru": "Новые иконки по смыслу команд; маленькие иконки крупнее и чётче (перезапустите Revit)",
-    "en": "New meaningful icons for every command; small icons larger and sharper (restart Revit)"
+    "uz": "Lentadagi kichik ikonkalar to'liq ko'rinadi (Revitni qayta oching)",
+    "ru": "Маленькие иконки на ленте отображаются полностью (перезапустите Revit)",
+    "en": "Small ribbon icons display fully (restart Revit)"
   }
 }
