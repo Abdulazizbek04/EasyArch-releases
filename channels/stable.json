@@ -1,10 +1,10 @@
 {
-  "version": "0.12.43",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.43/EasyArch_0.12.43.zip",
-  "sha256": "FF66BB7EB64C2FD9A56344E92BCD41E1E7B08025CC34783D3A8EF4322B0A3327",
+  "version": "0.12.45",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.45/EasyArch_0.12.45.zip",
+  "sha256": "2A8D12E6C156006F09982E3DCABD062A9DDC25B22883506CB6D82783466BA064",
   "notes": {
-    "uz": "Yangilanishda «Revitni yopib qayta ochish» varianti (saqlashda «Bekor» bosilsa yopilmaydi); o'rnatuvchi ichidagi fayllar aralashtirildi",
-    "ru": "Обновление: вариант «Закрыть и открыть Revit» (при «Отмене» сохранения не закроется); файлы внутри установщика перемешаны",
-    "en": "Update: 'Close and reopen Revit' option (Cancel on save keeps it open); installer payload scrambled"
+    "uz": "Marka: shart ro'yxati kengaytirildi (teng, teng emas, katta, kichik, tugaydi, qiymati bor/yo'q va h.k. — Revitdagidek)",
+    "ru": "Марки: больше вариантов условия (равно, не равно, больше, меньше, заканчивается, имеет значение и т.д. — как в Revit)",
+    "en": "Marks: more condition operators (equals, not equals, greater, less, ends with, has value, etc. — like Revit)"
   }
 }
