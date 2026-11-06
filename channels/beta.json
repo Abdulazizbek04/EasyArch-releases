@@ -1,10 +1,10 @@
 {
-  "version": "0.12.46",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.46/EasyArch_0.12.46.zip",
-  "sha256": "507B87D8BFE4B744AE39BD9D243237FA946282ECD7682B3EB2C088080EFCA368",
+  "version": "0.12.47",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.47/EasyArch_0.12.47.zip",
+  "sha256": "37A2088654A6B9F2E11430DE36DA637026CE1C03FA1893E0A0EF691C57504FE1",
   "notes": {
-    "uz": "Plintus: har tomonning ikki uchida nuqta — uchni ichkariga surib kaltalatish, o'lchami ko'rinadi; preview yaqinlashtiriladi",
-    "ru": "Плинтус: на двух концах стороны точки — укорачивание внутрь с размером; масштаб превью",
-    "en": "Baseboard: handles at both ends of a side to trim inward with dimension; preview zoom"
+    "uz": "Plintus: tomonlar yaxlitlanadi (to'rtburchak xona — 4 nuqta); qaychi tugmasi bilan tomonni kesib bo'laklarga bo'lish, bo'lakni bosib o'chirish, nuqtalarni surib o'lcham; har bo'lak o'lchami ko'rinadi",
+    "ru": "Плинтус: стороны объединяются (прямоугольник — 4 точки); ножницы режут сторону на части, щелчок — вкл/выкл части, точки тянутся, размер каждой части виден",
+    "en": "Baseboard: sides merged (rectangle = 4 points); scissors cut a side into pieces, click to toggle a piece, drag points, each piece size shown"
   }
 }
