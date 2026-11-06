@@ -1,10 +1,10 @@
 {
-  "version": "0.12.41",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.41/EasyArch_0.12.41.zip",
-  "sha256": "DFBD0F3F793AEF401DC6CA6796C405528EC7C849551CCC44915A70C4C4219E39",
+  "version": "0.12.42",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.42/EasyArch_0.12.42.zip",
+  "sha256": "02A23429A6F9DF9C8BAAC489F45211F7439D3258EF64550039B6BC1923978088",
   "notes": {
-    "uz": "Yangi: Xonalar raqami va O'qlar hamma uchun; ixcham lenta va yangi ikonkalar (Revitni qayta oching); o'rnatuvchi Revitni istalgan diskdan topadi",
-    "ru": "Новое: Номера помещений и Оси для всех; компактная лента и новые иконки (перезапустите Revit); установщик находит Revit на любом диске",
-    "en": "New: Room numbers and Grids for everyone; compact ribbon and new icons (restart Revit); installer finds Revit on any drive"
+    "uz": "Yangi: Pog'ona (pol va shift) hamma uchun; Xonalar raqami, O'qlar, ixcham lenta va yangi ikonkalar (Revitni qayta oching)",
+    "ru": "Новое: Ступень (пол и потолок) для всех; Номера помещений, Оси, компактная лента и новые иконки (перезапустите Revit)",
+    "en": "New: Step (floor and ceiling) for everyone; Room numbers, Grids, compact ribbon and new icons (restart Revit)"
   }
 }
