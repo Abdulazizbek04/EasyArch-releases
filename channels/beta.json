@@ -1,10 +1,10 @@
 {
-  "version": "0.12.40",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.40/EasyArch_0.12.40.zip",
-  "sha256": "01EBBB4F7A71C54DF39C21C0DDBBBD28F638FDEA02AB1C968C1B9D21FA4F6534",
+  "version": "0.12.41",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.41/EasyArch_0.12.41.zip",
+  "sha256": "DFBD0F3F793AEF401DC6CA6796C405528EC7C849551CCC44915A70C4C4219E39",
   "notes": {
-    "uz": "Xonalar raqami: boshlang'ich va oxirgi xonani tanlash (2 marta bosish — boshlang'ich), sath raqami standart o'chiq — 1 dan boshlanadi",
-    "ru": "Номера помещений: выбор начального и последнего помещения (двойной щелчок — начальное), номер уровня по умолчанию выключен — с 1",
-    "en": "Room numbers: pick start and last room (double-click sets start), level prefix off by default — starts at 1"
+    "uz": "Yangi: Xonalar raqami va O'qlar hamma uchun; ixcham lenta va yangi ikonkalar (Revitni qayta oching); o'rnatuvchi Revitni istalgan diskdan topadi",
+    "ru": "Новое: Номера помещений и Оси для всех; компактная лента и новые иконки (перезапустите Revit); установщик находит Revit на любом диске",
+    "en": "New: Room numbers and Grids for everyone; compact ribbon and new icons (restart Revit); installer finds Revit on any drive"
   }
 }
