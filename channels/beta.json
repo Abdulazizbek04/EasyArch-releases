@@ -1,10 +1,10 @@
 {
-  "version": "0.12.37",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.37/EasyArch_0.12.37.zip",
-  "sha256": "9B8DE0B3A1CB2770E040C05ACFC526F493F3B80A3BB0A820682E16C294BF8E83",
+  "version": "0.12.38",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.38/EasyArch_0.12.38.zip",
+  "sha256": "E8B5476F240F6C2CC767176E39C534945B391C35E1B551528875E3BA14E72348",
   "notes": {
-    "uz": "Lenta ixchamlashtirildi: kichik tugmalar ustunga 3 tadan; Profillarni yangilash — alohida kichik tugma (Revitni qayta oching)",
-    "ru": "Компактная лента: маленькие кнопки по 3 в столбце; Обновить профили — отдельная кнопка (перезапустите Revit)",
-    "en": "Compact ribbon: small buttons stacked 3 per column; Update profiles is a separate button (restart Revit)"
+    "uz": "Yangi ikonkalar: har bir buyruq o'z vazifasini ko'rsatadi; kichik ikonkalar kattaroq va aniqroq (Revitni qayta oching)",
+    "ru": "Новые иконки по смыслу команд; маленькие иконки крупнее и чётче (перезапустите Revit)",
+    "en": "New meaningful icons for every command; small icons larger and sharper (restart Revit)"
   }
 }
