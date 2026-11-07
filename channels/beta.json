@@ -1,10 +1,10 @@
 {
-  "version": "0.12.49",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.49/EasyArch_0.12.49.zip",
-  "sha256": "8F60813F94B8BE59B7B674CE28A4A90566A6B2B4A630F6830038224D909D8C9D",
+  "version": "0.12.50",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.50/EasyArch_0.12.50.zip",
+  "sha256": "C11097ECC2ADCE22BECCF84C68034F107F49FE58643CB0A1DE69A37277088BF9",
   "notes": {
-    "uz": "Karniz (shift): endi tomonlar tanlanadi — yaxlit tomonlar, qaychi bilan kesish, bo'lakni o'chirish, bo'lakka qochish (plintusdagidek), yaqinlashtirish",
-    "ru": "Карниз (потолок): теперь выбор сторон — цельные стороны, ножницы, отключение части, отступ части (как у плинтуса), масштаб",
-    "en": "Cornice (ceiling): side selection now — merged sides, scissors, toggle a piece, per-piece offset (like baseboard), zoom"
+    "uz": "Sathlar previewida ham yaqinlashtirish qo'shildi (barcha previewlar endi zoom bilan)",
+    "ru": "Масштаб добавлен и в превью уровней (во всех превью теперь есть зум)",
+    "en": "Zoom added to the levels preview too (all previews now zoomable)"
   }
 }
