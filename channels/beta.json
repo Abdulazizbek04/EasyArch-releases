@@ -1,10 +1,10 @@
 {
-  "version": "0.12.50",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.50/EasyArch_0.12.50.zip",
-  "sha256": "C11097ECC2ADCE22BECCF84C68034F107F49FE58643CB0A1DE69A37277088BF9",
+  "version": "0.12.51",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.51/EasyArch_0.12.51.zip",
+  "sha256": "D460ABB0119783E64B2EC4228C6F257DD0C9B2D89B0CA3724AE461CE38E14288",
   "notes": {
-    "uz": "Sathlar previewida ham yaqinlashtirish qo'shildi (barcha previewlar endi zoom bilan)",
-    "ru": "Масштаб добавлен и в превью уровней (во всех превью теперь есть зум)",
-    "en": "Zoom added to the levels preview too (all previews now zoomable)"
+    "uz": "Obuna tugaganda endi faqat Kutubxona ishlaydi (Pardoz va Eksport ham obunага kiradi)",
+    "ru": "После окончания подписки теперь работает только Библиотека",
+    "en": "After the subscription ends only the Library works now"
   }
 }
