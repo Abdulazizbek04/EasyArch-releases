@@ -1,10 +1,10 @@
 {
-  "version": "0.12.48",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.48/EasyArch_0.12.48.zip",
-  "sha256": "8EA913CE0F9C097F95E113EEDA4E8D0F82017D051654E09207D0735335449313",
+  "version": "0.12.49",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.49/EasyArch_0.12.49.zip",
+  "sha256": "8F60813F94B8BE59B7B674CE28A4A90566A6B2B4A630F6830038224D909D8C9D",
   "notes": {
-    "uz": "Plintus: Esc — qaychini o'chiradi, yana Esc — chiqadi; bo'lakni bosib tanlash va unga alohida qochish berish (shkaf atrofini o'rash uchun), qo'shni bo'laklar avtomatik ulanadi",
-    "ru": "Плинтус: Esc выключает ножницы, ещё раз — выход; выбор части и отдельный отступ для неё (обход шкафа), соседние части соединяются автоматически",
-    "en": "Baseboard: Esc turns off scissors, again — exit; select a piece and give it its own offset (to wrap a cabinet), neighbours connect automatically"
+    "uz": "Karniz (shift): endi tomonlar tanlanadi — yaxlit tomonlar, qaychi bilan kesish, bo'lakni o'chirish, bo'lakka qochish (plintusdagidek), yaqinlashtirish",
+    "ru": "Карниз (потолок): теперь выбор сторон — цельные стороны, ножницы, отключение части, отступ части (как у плинтуса), масштаб",
+    "en": "Cornice (ceiling): side selection now — merged sides, scissors, toggle a piece, per-piece offset (like baseboard), zoom"
   }
 }
