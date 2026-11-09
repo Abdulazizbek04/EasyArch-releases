@@ -1,10 +1,10 @@
 {
-  "version": "0.12.52",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.52/EasyArch_0.12.52.zip",
-  "sha256": "D95C82750F57A4A490B448F6E1AF7959F4F64F5286A097FC5BA48FA21DCF57E1",
+  "version": "0.12.53",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.53/EasyArch_0.12.53.zip",
+  "sha256": "FFD4B91CCE11F027017A5F796D6A261C5C1527401F240A3F3F198BCA95820623",
   "notes": {
-    "uz": "Yangi (sinov): Qavatlar, O'qlar yaratish, Fasad pardozi, Material yaratish, Zina qirqimi",
-    "ru": "Новое (тест): Уровни, Создание осей, Отделка фасада, Создание материала, Разрез лестницы",
-    "en": "New (beta): Levels, Create grids, Facade cladding, Material palette, Stair section"
+    "uz": "Sinov tuzatishlari: O'qlar «+» chetda qotib turadi, yo'riqnoma matnlari olib tashlandi, Fasad — bir tomon bitta devor (kolonnalar ustidan), sath bo'yicha past/yuqori, avtomatik join; Material oynasi qayta qurildi",
+    "ru": "Исправления: «+» осей закреплены по краям, подсказки убраны, Фасад — одна стена на сторону (через колонны), низ/верх по уровням, авто-соединение; окно Материала переделано",
+    "en": "Fixes: grid «+» pinned to edges, hint texts removed, Facade — one wall per side (across columns), base/top by level, auto join; Material window redesigned"
   }
 }
