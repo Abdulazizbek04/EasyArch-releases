@@ -1,10 +1,10 @@
 {
-  "version": "0.12.51",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.51/EasyArch_0.12.51.zip",
-  "sha256": "D460ABB0119783E64B2EC4228C6F257DD0C9B2D89B0CA3724AE461CE38E14288",
+  "version": "0.12.52",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.52/EasyArch_0.12.52.zip",
+  "sha256": "D95C82750F57A4A490B448F6E1AF7959F4F64F5286A097FC5BA48FA21DCF57E1",
   "notes": {
-    "uz": "Obuna tugaganda endi faqat Kutubxona ishlaydi (Pardoz va Eksport ham obunага kiradi)",
-    "ru": "После окончания подписки теперь работает только Библиотека",
-    "en": "After the subscription ends only the Library works now"
+    "uz": "Yangi (sinov): Qavatlar, O'qlar yaratish, Fasad pardozi, Material yaratish, Zina qirqimi",
+    "ru": "Новое (тест): Уровни, Создание осей, Отделка фасада, Создание материала, Разрез лестницы",
+    "en": "New (beta): Levels, Create grids, Facade cladding, Material palette, Stair section"
   }
 }
