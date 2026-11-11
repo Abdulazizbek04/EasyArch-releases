@@ -1,10 +1,10 @@
 {
-  "version": "0.12.54",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.54/EasyArch_0.12.54.zip",
-  "sha256": "601B593A5D913C8B5F8C69E51AB066C4A5A4D856D92D1D6C25D3EA250A0FE51C",
+  "version": "0.12.55",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.55/EasyArch_0.12.55.zip",
+  "sha256": "0B6A18D1603E9671C73A2AF5A37C95A780F27319401E28902329515AA005327B",
   "notes": {
-    "uz": "Devor pardozi endi kolonnalar sirtiga ham beriladi",
-    "ru": "Отделка стен теперь наносится и на поверхности колонн",
-    "en": "Wall finish now also covers column faces"
+    "uz": "Devor pardozi va Fasad pardozida «Линия привязки» tanlanadi: o'rtasi, tashqi yoki ichki yuza",
+    "ru": "В отделке стен и фасада выбирается линия привязки: ось, наружная или внутренняя чистовая поверхность",
+    "en": "Wall finish and facade cladding: choose location line — centerline, exterior or interior finish face"
   }
 }
