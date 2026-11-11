@@ -1,10 +1,10 @@
 {
-  "version": "0.12.45",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.45/EasyArch_0.12.45.zip",
-  "sha256": "2A8D12E6C156006F09982E3DCABD062A9DDC25B22883506CB6D82783466BA064",
+  "version": "0.12.54",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.54/EasyArch_0.12.54.zip",
+  "sha256": "601B593A5D913C8B5F8C69E51AB066C4A5A4D856D92D1D6C25D3EA250A0FE51C",
   "notes": {
-    "uz": "Marka: shart ro'yxati kengaytirildi (teng, teng emas, katta, kichik, tugaydi, qiymati bor/yo'q va h.k. — Revitdagidek)",
-    "ru": "Марки: больше вариантов условия (равно, не равно, больше, меньше, заканчивается, имеет значение и т.д. — как в Revit)",
-    "en": "Marks: more condition operators (equals, not equals, greater, less, ends with, has value, etc. — like Revit)"
+    "uz": "Devor pardozi endi kolonnalar sirtiga ham beriladi",
+    "ru": "Отделка стен теперь наносится и на поверхности колонн",
+    "en": "Wall finish now also covers column faces"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "version": "0.12.53",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.53/EasyArch_0.12.53.zip",
-  "sha256": "FFD4B91CCE11F027017A5F796D6A261C5C1527401F240A3F3F198BCA95820623",
+  "version": "0.12.54",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.54/EasyArch_0.12.54.zip",
+  "sha256": "601B593A5D913C8B5F8C69E51AB066C4A5A4D856D92D1D6C25D3EA250A0FE51C",
   "notes": {
-    "uz": "Sinov tuzatishlari: O'qlar «+» chetda qotib turadi, yo'riqnoma matnlari olib tashlandi, Fasad — bir tomon bitta devor (kolonnalar ustidan), sath bo'yicha past/yuqori, avtomatik join; Material oynasi qayta qurildi",
-    "ru": "Исправления: «+» осей закреплены по краям, подсказки убраны, Фасад — одна стена на сторону (через колонны), низ/верх по уровням, авто-соединение; окно Материала переделано",
-    "en": "Fixes: grid «+» pinned to edges, hint texts removed, Facade — one wall per side (across columns), base/top by level, auto join; Material window redesigned"
+    "uz": "Devor pardozi endi kolonnalar sirtiga ham beriladi",
+    "ru": "Отделка стен теперь наносится и на поверхности колонн",
+    "en": "Wall finish now also covers column faces"
   }
 }
