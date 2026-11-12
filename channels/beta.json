@@ -1,10 +1,10 @@
 {
-  "version": "0.12.57",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.57/EasyArch_0.12.57.zip",
-  "sha256": "675D9B2830C3A7970ECA02C12F5CAB8CDF8DD65CE1EEE2104BB641B63A30CA0B",
+  "version": "0.12.58",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.58/EasyArch_0.12.58.zip",
+  "sha256": "C2AF2233881C965C0F86DC28B78A65FD06961E1A900D4E6561E4259A9C5D65AE",
   "notes": {
-    "uz": "Tuzatish: Eksportda planlar, qirqimlar, fasadlar va 3D endi ko'rinadi",
-    "ru": "Исправлено: в Экспорте теперь видны планы, разрезы, фасады и 3D",
-    "en": "Fix: plans, sections, elevations and 3D now appear in Export"
+    "uz": "Eksport: turlar galochka bilan, Shift bilan ko'p qatorni belgilash, tabiiy tartib (1, 2 … 10)",
+    "ru": "Экспорт: типы галочками, выделение диапазона через Shift, естественная сортировка (1, 2 … 10)",
+    "en": "Export: type checkboxes, Shift range checking, natural sort (1, 2 … 10)"
   }
 }
