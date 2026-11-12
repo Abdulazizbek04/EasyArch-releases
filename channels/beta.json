@@ -1,10 +1,10 @@
 {
-  "version": "0.12.55",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.55/EasyArch_0.12.55.zip",
-  "sha256": "0B6A18D1603E9671C73A2AF5A37C95A780F27319401E28902329515AA005327B",
+  "version": "0.12.56",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.56/EasyArch_0.12.56.zip",
+  "sha256": "DA4BA0C1188BE9978CD2E0F1FB9122E1AC32335BC40646E492496418F00DB89D",
   "notes": {
-    "uz": "Devor pardozi va Fasad pardozida «Линия привязки» tanlanadi: o'rtasi, tashqi yoki ichki yuza",
-    "ru": "В отделке стен и фасада выбирается линия привязки: ось, наружная или внутренняя чистовая поверхность",
-    "en": "Wall finish and facade cladding: choose location line — centerline, exterior or interior finish face"
+    "uz": "Eksport: listlardan tashqari planlar, qirqimlar, fasadlar va 3D ko'rinishlar; har turini yoqib-o'chirish mumkin",
+    "ru": "Экспорт: кроме листов — планы, разрезы, фасады и 3D-виды; каждый тип включается отдельно",
+    "en": "Export: plans, sections, elevations and 3D views besides sheets; each type can be toggled"
   }
 }
