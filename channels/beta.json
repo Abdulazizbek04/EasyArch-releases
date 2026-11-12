@@ -1,10 +1,10 @@
 {
-  "version": "0.12.56",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.56/EasyArch_0.12.56.zip",
-  "sha256": "DA4BA0C1188BE9978CD2E0F1FB9122E1AC32335BC40646E492496418F00DB89D",
+  "version": "0.12.57",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.57/EasyArch_0.12.57.zip",
+  "sha256": "675D9B2830C3A7970ECA02C12F5CAB8CDF8DD65CE1EEE2104BB641B63A30CA0B",
   "notes": {
-    "uz": "Eksport: listlardan tashqari planlar, qirqimlar, fasadlar va 3D ko'rinishlar; har turini yoqib-o'chirish mumkin",
-    "ru": "Экспорт: кроме листов — планы, разрезы, фасады и 3D-виды; каждый тип включается отдельно",
-    "en": "Export: plans, sections, elevations and 3D views besides sheets; each type can be toggled"
+    "uz": "Tuzatish: Eksportda planlar, qirqimlar, fasadlar va 3D endi ko'rinadi",
+    "ru": "Исправлено: в Экспорте теперь видны планы, разрезы, фасады и 3D",
+    "en": "Fix: plans, sections, elevations and 3D now appear in Export"
   }
 }
