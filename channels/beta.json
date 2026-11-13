@@ -1,10 +1,10 @@
 {
-  "version": "0.12.58",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.58/EasyArch_0.12.58.zip",
-  "sha256": "C2AF2233881C965C0F86DC28B78A65FD06961E1A900D4E6561E4259A9C5D65AE",
+  "version": "0.12.59",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.59/EasyArch_0.12.59.zip",
+  "sha256": "4001B54C1FCFC146F41E5623F6E821B415207C5EAA3199006A81FD28E9610A21",
   "notes": {
-    "uz": "Eksport: turlar galochka bilan, Shift bilan ko'p qatorni belgilash, tabiiy tartib (1, 2 … 10)",
-    "ru": "Экспорт: типы галочками, выделение диапазона через Shift, естественная сортировка (1, 2 … 10)",
-    "en": "Export: type checkboxes, Shift range checking, natural sort (1, 2 … 10)"
+    "uz": "Listga joylashda «Sarlavha turi» olib tashlandi — sarlavha ko'rinish oynasi turidan olinadi",
+    "ru": "При размещении на листе убран «Заголовок вида» — заголовок берётся из типа видового экрана",
+    "en": "Sheet placement: «View title» option removed — the title comes from the viewport type"
   }
 }
