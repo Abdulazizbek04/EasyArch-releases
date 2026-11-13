@@ -1,10 +1,10 @@
 {
-  "version": "0.12.59",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.59/EasyArch_0.12.59.zip",
-  "sha256": "4001B54C1FCFC146F41E5623F6E821B415207C5EAA3199006A81FD28E9610A21",
+  "version": "0.12.60",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.60/EasyArch_0.12.60.zip",
+  "sha256": "9456AA8D8B021E976713A63DB5E25DE8DBA1486C10411788B372F3E86A8B2686",
   "notes": {
-    "uz": "Listga joylashda «Sarlavha turi» olib tashlandi — sarlavha ko'rinish oynasi turidan olinadi",
-    "ru": "При размещении на листе убран «Заголовок вида» — заголовок берётся из типа видового экрана",
-    "en": "Sheet placement: «View title» option removed — the title comes from the viewport type"
+    "uz": "Qirqim oynasi: plan va 3D shablonlari faqat yoqilganda ko'rinadi, plan/3D standart o'chiq, panel va preview orasini surish, sozlamalar tor joyda keyingi qatorga o'tadi; Listga joylash — yoqib-o'chiriladigan",
+    "ru": "Окно разрезов: шаблоны плана/3D только при включении, по умолчанию выключены, разделитель панели и превью, настройки переносятся; Размещение на листах — переключатель",
+    "en": "Elevation window: plan/3D templates shown only when enabled, off by default, resizable splitter, wrapping settings; Place on sheets is now a toggle"
   }
 }
