@@ -1,10 +1,10 @@
 {
-  "version": "0.12.62",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.62/EasyArch_0.12.62.zip",
-  "sha256": "07968FE1D06F842664855AB94024806C9B4103D6E04E01B98B5CD605CD3B9E23",
+  "version": "0.12.63",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.63/EasyArch_0.12.63.zip",
+  "sha256": "4C9CD36B5734687818560DC60FDC485D586DB7DCC4F2FAAE8BB5886DFCE04AEE",
   "notes": {
-    "uz": "Tuzatildi: surgich tortilgandan keyin oyna kichraysa preview yo'qolib qolardi — endi panel va preview doim ko'rinadi. Yangi: «Xatolikni yuborish» — xato dialogida va Sozlamalar → Bog'lanish bo'limida, jurnal bir bosishda ishlab chiquvchiga boradi",
-    "ru": "Исправлено: после перетаскивания разделителя превью могло исчезнуть при уменьшении окна — теперь панель и превью видны всегда. Новое: «Отправить ошибку» — в диалоге ошибки и в Настройки → Связь, журнал уходит разработчику в один клик",
-    "en": "Fixed: after dragging the splitter the preview could disappear when the window got smaller — panel and preview now always stay visible. New: “Send error report” in error dialogs and Settings → Contact sends the log to the developer in one click"
+    "uz": "Yangi: «To'plamlar» — oyna sarlavhasi qatorida; sozlamalarni nom bilan saqlab, bir bosishda qaytarish (Qirqim, Pardoz, Eshik/Oyna/Vitraj hujjatlash, Avto-o'lcham, Xonalar raqami, Listlar raqamlash, Marka). To'plamlar barcha loyihalarda ishlaydi",
+    "ru": "Новое: «Наборы» в строке заголовка окна — сохраните настройки под именем и возвращайте в один клик (Разрезы, Отделка, Документация дверей/окон/витражей, Авторазмеры, Номера помещений, Нумерация листов, Марки). Наборы работают во всех проектах",
+    "en": "New: “Presets” in the window title bar — save settings under a name and bring them back in one click (Elevations, Finishes, Door/Window/Curtain docs, Auto dimensions, Room numbers, Sheet numbering, Marks). Presets work across all projects"
   }
 }
