@@ -1,10 +1,10 @@
 {
-  "version": "0.12.61",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.61/EasyArch_0.12.61.zip",
-  "sha256": "F8CDDC78679CD17FF24C2754945B0F9CC61A5E93E1E4EC9423450DE9024ACD2E",
+  "version": "0.12.62",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.62/EasyArch_0.12.62.zip",
+  "sha256": "07968FE1D06F842664855AB94024806C9B4103D6E04E01B98B5CD605CD3B9E23",
   "notes": {
-    "uz": "Dizayn tartibi: barcha oynalarda yagona shrift (16/13/12/11) va oraliqlar, izohlar sarlavha yonidagi «?» ga ko'chdi, panel va preview orasida surgich. Sozlamalar — bo'limlar bilan; Eksport, Marka, Listlar raqamlash, Devor bo'laklash (preview bilan) qayta tartiblandi. Eski «O'qlar» va «Sathlar» oynalari Loyiha guruhidagi O'qlar va Qavatlar bilan birlashtirildi",
-    "ru": "Порядок в дизайне: единые шрифты (16/13/12/11) и отступы во всех окнах, подсказки перенесены в «?» у заголовка, разделитель между панелью и превью. Настройки — по разделам; Экспорт, Марки, Нумерация листов, Разбивка стен (с превью) перестроены. Старые окна «Оси» и «Уровни» объединены с Осями и Этажами в группе Проект",
-    "en": "Design cleanup: one type scale (16/13/12/11) and spacing in every window, hints moved to a “?” next to the title, splitter between panel and preview. Settings now has sections; Export, Marks, Sheet numbering and Wall split (with preview) were rearranged. The old Grids and Levels windows are merged into Grids and Levels in the Project group"
+    "uz": "Tuzatildi: surgich tortilgandan keyin oyna kichraysa preview yo'qolib qolardi — endi panel va preview doim ko'rinadi. Yangi: «Xatolikni yuborish» — xato dialogida va Sozlamalar → Bog'lanish bo'limida, jurnal bir bosishda ishlab chiquvchiga boradi",
+    "ru": "Исправлено: после перетаскивания разделителя превью могло исчезнуть при уменьшении окна — теперь панель и превью видны всегда. Новое: «Отправить ошибку» — в диалоге ошибки и в Настройки → Связь, журнал уходит разработчику в один клик",
+    "en": "Fixed: after dragging the splitter the preview could disappear when the window got smaller — panel and preview now always stay visible. New: “Send error report” in error dialogs and Settings → Contact sends the log to the developer in one click"
   }
 }
