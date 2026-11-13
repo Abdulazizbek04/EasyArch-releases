@@ -1,10 +1,10 @@
 {
-  "version": "0.12.63",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.63/EasyArch_0.12.63.zip",
-  "sha256": "4C9CD36B5734687818560DC60FDC485D586DB7DCC4F2FAAE8BB5886DFCE04AEE",
+  "version": "0.12.64",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.64/EasyArch_0.12.64.zip",
+  "sha256": "47905C86F0528627B4FE4E098D795D3864270EC57F45DF070356E6505934C46A",
   "notes": {
-    "uz": "Yangi: «To'plamlar» — oyna sarlavhasi qatorida; sozlamalarni nom bilan saqlab, bir bosishda qaytarish (Qirqim, Pardoz, Eshik/Oyna/Vitraj hujjatlash, Avto-o'lcham, Xonalar raqami, Listlar raqamlash, Marka). To'plamlar barcha loyihalarda ishlaydi",
-    "ru": "Новое: «Наборы» в строке заголовка окна — сохраните настройки под именем и возвращайте в один клик (Разрезы, Отделка, Документация дверей/окон/витражей, Авторазмеры, Номера помещений, Нумерация листов, Марки). Наборы работают во всех проектах",
-    "en": "New: “Presets” in the window title bar — save settings under a name and bring them back in one click (Elevations, Finishes, Door/Window/Curtain docs, Auto dimensions, Room numbers, Sheet numbering, Marks). Presets work across all projects"
+    "uz": "Yangi (sinov): Ichki dizayn → Konfigurator → «Shkaf». Shkaf, komod, tumba va javonlarni Revit family qilib yasaydi: gabarit, seksiya va zonalar (polka, tortma, shtanga), fasad uslubi, ruchka, materiallar, spetsifikatsiya. Preview: fasad, yon, plan, 3D. Yasalgan shkafni tanlab qayta ochsangiz — tahrirlab yangilash mumkin",
+    "ru": "Новое (тест): Интерьер → Конфигуратор → «Шкаф». Создаёт шкафы, комоды, тумбы и стеллажи как семейства Revit: габариты, секции и зоны (полки, ящики, штанга), стиль фасада, ручки, материалы, спецификация. Превью: фасад, сбоку, план, 3D. Выберите созданный шкаф и откройте команду — можно изменить и обновить",
+    "en": "New (beta): Interior → Configurator → “Cabinet”. Builds cabinets, dressers, units and shelving as Revit families: size, sections and zones (shelves, drawers, rail), front style, handles, materials, cut list. Preview: front, side, plan, 3D. Select a built cabinet and reopen to edit and update it"
   }
 }
