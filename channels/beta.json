@@ -1,10 +1,10 @@
 {
-  "version": "0.12.66",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.66/EasyArch_0.12.66.zip",
-  "sha256": "BC0381F6B7F199398403C3FAE89D940F211D14606647DCE43AB1663E2047EE8D",
+  "version": "0.12.67",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.67/EasyArch_0.12.67.zip",
+  "sha256": "FAEE2C6D4534F30AA41857A56052C21A07F03B1AE457B111A644C4E67B17CF92",
   "notes": {
-    "uz": "Ishlab chiquvchi kodi yangilandi",
-    "ru": "Обновлён код разработчика",
-    "en": "Developer code updated"
+    "uz": "Avto o'lcham: planda eshik va oynalar endi qolib ketmaydi — proyom chetlari devordagi teshikning o'zidan olinadi, har xona o'z chegarasidan o'lchanadi. Qirqimda mebel va jihozlar pastidagi sath bilan bog'lanadi (stol: sath → 850, osma shkaf: sath → pasti → tepasi) va yonida ichki kichik o'lchamlar (tortma, polka, stoleshnitsa)",
+    "ru": "Авторазмеры: на плане двери и окна больше не пропускаются — края проёма берутся из самого проёма в стене, каждое помещение образмеряется по своей границе. В разрезе мебель и оборудование привязываются к уровню под ними (стол: уровень → 850, навесной шкаф: уровень → низ → верх), рядом мелкие размеры (ящики, полки, столешница)",
+    "en": "Auto dimensions: doors and windows are no longer skipped in plans — opening edges come from the hole in the wall, each room is dimensioned from its own boundary. In sections furniture and equipment are tied to the level below (table: level → 850, wall cabinet: level → bottom → top) with small inner sizes beside (drawers, shelves, worktop)"
   }
 }
