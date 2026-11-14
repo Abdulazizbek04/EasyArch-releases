@@ -1,10 +1,10 @@
 {
-  "version": "0.12.67",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.67/EasyArch_0.12.67.zip",
-  "sha256": "FAEE2C6D4534F30AA41857A56052C21A07F03B1AE457B111A644C4E67B17CF92",
+  "version": "0.12.68",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.68/EasyArch_0.12.68.zip",
+  "sha256": "370372B49873FBDA35BF8BADF1D1B2B5D4646F679E88268638389DB08F88C290",
   "notes": {
-    "uz": "Avto o'lcham: planda eshik va oynalar endi qolib ketmaydi — proyom chetlari devordagi teshikning o'zidan olinadi, har xona o'z chegarasidan o'lchanadi. Qirqimda mebel va jihozlar pastidagi sath bilan bog'lanadi (stol: sath → 850, osma shkaf: sath → pasti → tepasi) va yonida ichki kichik o'lchamlar (tortma, polka, stoleshnitsa)",
-    "ru": "Авторазмеры: на плане двери и окна больше не пропускаются — края проёма берутся из самого проёма в стене, каждое помещение образмеряется по своей границе. В разрезе мебель и оборудование привязываются к уровню под ними (стол: уровень → 850, навесной шкаф: уровень → низ → верх), рядом мелкие размеры (ящики, полки, столешница)",
-    "en": "Auto dimensions: doors and windows are no longer skipped in plans — opening edges come from the hole in the wall, each room is dimensioned from its own boundary. In sections furniture and equipment are tied to the level below (table: level → 850, wall cabinet: level → bottom → top) with small inner sizes beside (drawers, shelves, worktop)"
+    "uz": "Avto o'lcham: o'lcham chizig'i mebel, yozuv, teg yoki boshqa o'lcham ustiga tushsa, bo'sh joy topilguncha avtomatik suriladi. Planda mebel o'lchamlari xona o'lchamlaridan keyin qo'yiladi va ularni chetlab o'tadi",
+    "ru": "Авторазмеры: если размерная линия попадает на мебель, текст, марку или другой размер — она автоматически сдвигается на свободное место. На плане размеры мебели ставятся после размеров помещений и обходят их",
+    "en": "Auto dimensions: a dimension line that would land on furniture, text, a tag or another dimension is moved to a free spot automatically. In plans furniture dimensions are placed after room dimensions and avoid them"
   }
 }
