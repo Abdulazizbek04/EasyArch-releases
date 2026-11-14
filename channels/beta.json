@@ -1,10 +1,10 @@
 {
-  "version": "0.12.64",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.64/EasyArch_0.12.64.zip",
-  "sha256": "47905C86F0528627B4FE4E098D795D3864270EC57F45DF070356E6505934C46A",
+  "version": "0.12.65",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.65/EasyArch_0.12.65.zip",
+  "sha256": "12F13118978858781C3987522BAEC451E3866CFAD79EFB42BFCBDBEAF4750E22",
   "notes": {
-    "uz": "Yangi (sinov): Ichki dizayn → Konfigurator → «Shkaf». Shkaf, komod, tumba va javonlarni Revit family qilib yasaydi: gabarit, seksiya va zonalar (polka, tortma, shtanga), fasad uslubi, ruchka, materiallar, spetsifikatsiya. Preview: fasad, yon, plan, 3D. Yasalgan shkafni tanlab qayta ochsangiz — tahrirlab yangilash mumkin",
-    "ru": "Новое (тест): Интерьер → Конфигуратор → «Шкаф». Создаёт шкафы, комоды, тумбы и стеллажи как семейства Revit: габариты, секции и зоны (полки, ящики, штанга), стиль фасада, ручки, материалы, спецификация. Превью: фасад, сбоку, план, 3D. Выберите созданный шкаф и откройте команду — можно изменить и обновить",
-    "en": "New (beta): Interior → Configurator → “Cabinet”. Builds cabinets, dressers, units and shelving as Revit families: size, sections and zones (shelves, drawers, rail), front style, handles, materials, cut list. Preview: front, side, plan, 3D. Select a built cabinet and reopen to edit and update it"
+    "uz": "Yangi «Model yasash» paneli: Oyna, Eshik, Mebel yasash, Shkaf yasash — tayyor Revit family. Asosiy o'lchamlar instance parametr. Oyna: 11 xil tavaqa, fortochka, 7 tutqich, petlya, profil va material. Eshik: 1/2 tavaqa, framuga, ikki yuza alohida, ichki/tashqi nalichnik, otkos, ostona, ochilish tomoni. Mebel: 7 tur. Shkaf: tayyor turlar, ikki tomonli, fasadsiz. Preview: oq fon, Old/Yon/Orqa/Plan/3D, razmerni bosib o'zgartirish. Har maydonda «?» va xato yozuvi",
+    "ru": "Новая панель «Создание моделей»: Окно, Дверь, Мебель, Шкаф — готовые семейства Revit. Основные размеры — параметры экземпляра. Окно: 11 типов створок, форточка, 7 ручек, петли, профиль и материал. Дверь: 1/2 полотна, фрамуга, две стороны, наличники отдельно, откос, порог, сторона открывания. Мебель: 7 типов. Шкаф: готовые типы, двусторонний, без фасадов. Превью: белый фон, спереди/сбоку/сзади/план/3D, размеры редактируются щелчком. У каждого поля «?» и подсказка об ошибке",
+    "en": "New “Model builder” panel: Window, Door, Furniture, Cabinet — ready Revit families. Main sizes are instance parameters. Window: 11 sash types, transom, 7 handles, hinges, profile and material. Door: 1/2 leaves, transom, two faces, inner/outer casings, reveal lining, threshold, swing side. Furniture: 7 types. Cabinet: ready types, double-sided, no fronts. Preview: white background, front/side/back/plan/3D, click a dimension to edit. Every field has a “?” and inline errors"
   }
 }
