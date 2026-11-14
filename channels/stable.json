@@ -1,10 +1,10 @@
 {
-  "version": "0.12.54",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.54/EasyArch_0.12.54.zip",
-  "sha256": "601B593A5D913C8B5F8C69E51AB066C4A5A4D856D92D1D6C25D3EA250A0FE51C",
+  "version": "0.12.55",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.55/EasyArch_0.12.55.zip",
+  "sha256": "2B07166D575859CB451D17B3199200ED78905B8299335B5BA7AA28A5AD915896",
   "notes": {
-    "uz": "Devor pardozi endi kolonnalar sirtiga ham beriladi",
-    "ru": "Отделка стен теперь наносится и на поверхности колонн",
-    "en": "Wall finish now also covers column faces"
+    "uz": "Ishlab chiquvchi kodi yangilandi",
+    "ru": "Обновлён код разработчика",
+    "en": "Developer code updated"
   }
 }
