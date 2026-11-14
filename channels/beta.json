@@ -1,10 +1,10 @@
 {
-  "version": "0.12.68",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.68/EasyArch_0.12.68.zip",
-  "sha256": "370372B49873FBDA35BF8BADF1D1B2B5D4646F679E88268638389DB08F88C290",
+  "version": "0.12.69",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.69/EasyArch_0.12.69.zip",
+  "sha256": "4730BA6E9D798788491ED61B2FCCD0A0EAEF65D1F1523F7474F853B7D5E5EF6F",
   "notes": {
-    "uz": "Avto o'lcham: o'lcham chizig'i mebel, yozuv, teg yoki boshqa o'lcham ustiga tushsa, bo'sh joy topilguncha avtomatik suriladi. Planda mebel o'lchamlari xona o'lchamlaridan keyin qo'yiladi va ularni chetlab o'tadi",
-    "ru": "Авторазмеры: если размерная линия попадает на мебель, текст, марку или другой размер — она автоматически сдвигается на свободное место. На плане размеры мебели ставятся после размеров помещений и обходят их",
-    "en": "Auto dimensions: a dimension line that would land on furniture, text, a tag or another dimension is moved to a free spot automatically. In plans furniture dimensions are placed after room dimensions and avoid them"
+    "uz": "Avto o'lcham (plan) qo'lda chiziladigan tartibda qayta qurildi: har xonaning har tomoni bo'ylab zanjir — burchaklar, ustun va bo'rtmalar, eshik-oyna proyomlari; ikkinchi qatorda shu tomonning umumiy o'lchami. Ustunlar hisobga olinadi, 0 va noto'g'ri qiymatlar yo'qoldi, bir eshik ikki xonada takrorlanmaydi",
+    "ru": "Авторазмеры (план) перестроены как при ручной простановке: по каждой стороне помещения цепочка — углы, колонны и выступы, проёмы; вторым рядом общий размер стороны. Колонны учитываются, нулевые и неверные значения убраны, одна дверь не образмеряется в двух помещениях",
+    "en": "Auto dimensions (plan) rebuilt to match manual practice: a chain along every side of each room — corners, columns and jogs, door and window openings; second row is the side overall. Columns are included, zero and wrong values are gone, a door is not dimensioned twice in two rooms"
   }
 }
