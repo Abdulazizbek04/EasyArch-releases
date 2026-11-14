@@ -1,10 +1,10 @@
 {
-  "version": "0.12.69",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.69/EasyArch_0.12.69.zip",
-  "sha256": "4730BA6E9D798788491ED61B2FCCD0A0EAEF65D1F1523F7474F853B7D5E5EF6F",
+  "version": "0.12.70",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.70/EasyArch_0.12.70.zip",
+  "sha256": "B90586E60DDC52B7706336F963F9D86C883A5B58263759B399AF21157DD83635",
   "notes": {
-    "uz": "Avto o'lcham (plan) qo'lda chiziladigan tartibda qayta qurildi: har xonaning har tomoni bo'ylab zanjir — burchaklar, ustun va bo'rtmalar, eshik-oyna proyomlari; ikkinchi qatorda shu tomonning umumiy o'lchami. Ustunlar hisobga olinadi, 0 va noto'g'ri qiymatlar yo'qoldi, bir eshik ikki xonada takrorlanmaydi",
-    "ru": "Авторазмеры (план) перестроены как при ручной простановке: по каждой стороне помещения цепочка — углы, колонны и выступы, проёмы; вторым рядом общий размер стороны. Колонны учитываются, нулевые и неверные значения убраны, одна дверь не образмеряется в двух помещениях",
-    "en": "Auto dimensions (plan) rebuilt to match manual practice: a chain along every side of each room — corners, columns and jogs, door and window openings; second row is the side overall. Columns are included, zero and wrong values are gone, a door is not dimensioned twice in two rooms"
+    "uz": "Avto o'lcham (plan): zanjir Revit rad etsa, proyomlar bittadan qo'shib sinaladi — o'xshamagan oyna/eshik tashlanadi, qolganlari tushadi; oila tekisligi joyi eni bo'yicha hisoblanadi; umumiy o'lcham takrorlanmaydi va zanjirdan keyin turadi",
+    "ru": "Авторазмеры (план): если Revit отклоняет цепочку, проёмы добавляются по одному — неподходящая дверь/окно пропускается, остальные ставятся; положение плоскостей семейства по ширине; общий размер не дублируется и стоит после цепочки",
+    "en": "Auto dimensions (plan): if Revit rejects a chain, openings are added one by one — a failing door/window is skipped and the rest are placed; family plane position from width; overall size is not duplicated and sits after the chain"
   }
 }
