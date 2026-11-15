@@ -1,10 +1,10 @@
 {
-  "version": "0.12.70",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.70/EasyArch_0.12.70.zip",
-  "sha256": "B90586E60DDC52B7706336F963F9D86C883A5B58263759B399AF21157DD83635",
+  "version": "0.12.71",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.71/EasyArch_0.12.71.zip",
+  "sha256": "271CCE3D7E294A6CF044D41FFD8CE8277F9D9397ABF881C8BE9EC748467E4965",
   "notes": {
-    "uz": "Avto o'lcham (plan): zanjir Revit rad etsa, proyomlar bittadan qo'shib sinaladi — o'xshamagan oyna/eshik tashlanadi, qolganlari tushadi; oila tekisligi joyi eni bo'yicha hisoblanadi; umumiy o'lcham takrorlanmaydi va zanjirdan keyin turadi",
-    "ru": "Авторазмеры (план): если Revit отклоняет цепочку, проёмы добавляются по одному — неподходящая дверь/окно пропускается, остальные ставятся; положение плоскостей семейства по ширине; общий размер не дублируется и стоит после цепочки",
-    "en": "Auto dimensions (plan): if Revit rejects a chain, openings are added one by one — a failing door/window is skipped and the rest are placed; family plane position from width; overall size is not duplicated and sits after the chain"
+    "uz": "Avto o'lcham (qirqim/fasad): bitta noto'g'ri o'lcham sababli hammasi bekor bo'lmaydi — u o'chiriladi, qolganlari saqlanadi; sath balandligi to'g'ri hisoblanadi (0 qiymatlar yo'qoladi); 30 mm dan yupqa qismlar (polka qalinligi) bitta nuqta",
+    "ru": "Авторазмеры (разрез/фасад): из-за одного некорректного размера всё не отменяется — он удаляется, остальные сохраняются; отметка уровня считается правильно (нули исчезают); части тоньше 30 мм (толщина полки) — одна точка",
+    "en": "Auto dimensions (section/elevation): one invalid dimension no longer cancels everything — it is removed and the rest are kept; level elevation computed correctly (zeros gone); parts thinner than 30 mm (shelf thickness) become one point"
   }
 }
