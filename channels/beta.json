@@ -1,10 +1,10 @@
 {
-  "version": "0.12.72",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.72/EasyArch_0.12.72.zip",
-  "sha256": "E15BDDE78450288BD91D07BFC3D535621EA3D72946F63177535170D937E314C1",
+  "version": "0.12.73",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.73/EasyArch_0.12.73.zip",
+  "sha256": "DC00705C88E7A016A14051A6C8B78CE1361B5DB50396C886C156CB861E868714",
   "notes": {
-    "uz": "Avto o'lcham (qirqim/fasad) namunangiz bo'yicha qayta qurildi: o'lchamlar chizma ichida — bitta gorizontal zanjir (shkaf eshiklari, panellar, proyomlar), har mebel o'zida vertikal (pol → bo'linmalar → tepasi → shift), oyna pol → pasti → tepasi → shift, xona balandligi bitta zanjirda. Chizma tashqarisidagi qatorlar va ortiqcha umumiy o'lchamlar olib tashlandi",
-    "ru": "Авторазмеры (разрез/фасад) перестроены по образцу: размеры внутри чертежа — одна горизонтальная цепочка (двери шкафа, панели, проёмы), вертикаль на каждой мебели (пол → деления → верх → потолок), окно пол → низ → верх → потолок, высота помещения одной цепочкой. Ряды за пределами чертежа и лишние общие размеры убраны",
-    "en": "Auto dimensions (section/elevation) rebuilt to match the sample: dimensions inside the drawing — one horizontal chain (cabinet doors, panels, openings), a vertical on each furniture item (floor → divisions → top → ceiling), window floor → bottom → top → ceiling, room height in one chain. Rows outside the drawing and extra overall sizes removed"
+    "uz": "Avto o'lcham (qirqim/fasad): Revitning «opornye elementy nekorrektny» xato oynasi endi chiqmaydi — buzuq o'lcham o'zi o'chiriladi; 0, 5, 10 kabi mayda oraliqlar qo'yilmaydi; sig'maydigan kichik raqamlar chiziqning narigi tomoniga o'tkaziladi; vertikal o'lchamlar devor bo'laklari bo'yicha (panel, nisha, polka), bir xil bo'laklar bitta o'lcham oladi; divan, kreslo, stolda faqat pol → usti, ichki bo'linmalar faqat shkaflarda; takror zanjirlar qo'yilmaydi",
+    "ru": "Авторазмеры (разрез/фасад): окно Revit «опорные элементы некорректны» больше не появляется — сломанный размер удаляется; мелкие отрезки 0, 5, 10 не ставятся; не помещающиеся мелкие числа переносятся на другую сторону линии; вертикальные размеры по участкам стены (панели, ниши, полки), одинаковые участки — одним размером; диван, кресло, стол — только пол → верх, внутренние деления только у шкафов; повторные цепочки не ставятся",
+    "en": "Auto dimensions (section/elevation): Revit's \"references are invalid\" dialog no longer appears — a broken dimension is removed; tiny 0/5/10 segments are skipped; small values that don't fit are moved to the other side of the line; verticals follow wall bays (panels, niches, shelves), identical bays get one dimension; sofas, armchairs, tables get floor → top only, inner divisions only on cabinets; duplicate chains are skipped"
   }
 }
