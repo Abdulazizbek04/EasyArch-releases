@@ -1,10 +1,10 @@
 {
-  "version": "0.12.71",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.71/EasyArch_0.12.71.zip",
-  "sha256": "271CCE3D7E294A6CF044D41FFD8CE8277F9D9397ABF881C8BE9EC748467E4965",
+  "version": "0.12.72",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.72/EasyArch_0.12.72.zip",
+  "sha256": "E15BDDE78450288BD91D07BFC3D535621EA3D72946F63177535170D937E314C1",
   "notes": {
-    "uz": "Avto o'lcham (qirqim/fasad): bitta noto'g'ri o'lcham sababli hammasi bekor bo'lmaydi — u o'chiriladi, qolganlari saqlanadi; sath balandligi to'g'ri hisoblanadi (0 qiymatlar yo'qoladi); 30 mm dan yupqa qismlar (polka qalinligi) bitta nuqta",
-    "ru": "Авторазмеры (разрез/фасад): из-за одного некорректного размера всё не отменяется — он удаляется, остальные сохраняются; отметка уровня считается правильно (нули исчезают); части тоньше 30 мм (толщина полки) — одна точка",
-    "en": "Auto dimensions (section/elevation): one invalid dimension no longer cancels everything — it is removed and the rest are kept; level elevation computed correctly (zeros gone); parts thinner than 30 mm (shelf thickness) become one point"
+    "uz": "Avto o'lcham (qirqim/fasad) namunangiz bo'yicha qayta qurildi: o'lchamlar chizma ichida — bitta gorizontal zanjir (shkaf eshiklari, panellar, proyomlar), har mebel o'zida vertikal (pol → bo'linmalar → tepasi → shift), oyna pol → pasti → tepasi → shift, xona balandligi bitta zanjirda. Chizma tashqarisidagi qatorlar va ortiqcha umumiy o'lchamlar olib tashlandi",
+    "ru": "Авторазмеры (разрез/фасад) перестроены по образцу: размеры внутри чертежа — одна горизонтальная цепочка (двери шкафа, панели, проёмы), вертикаль на каждой мебели (пол → деления → верх → потолок), окно пол → низ → верх → потолок, высота помещения одной цепочкой. Ряды за пределами чертежа и лишние общие размеры убраны",
+    "en": "Auto dimensions (section/elevation) rebuilt to match the sample: dimensions inside the drawing — one horizontal chain (cabinet doors, panels, openings), a vertical on each furniture item (floor → divisions → top → ceiling), window floor → bottom → top → ceiling, room height in one chain. Rows outside the drawing and extra overall sizes removed"
   }
 }
