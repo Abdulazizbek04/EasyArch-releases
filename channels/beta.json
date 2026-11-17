@@ -1,10 +1,10 @@
 {
-  "version": "0.12.81",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.81/EasyArch_0.12.81.zip",
-  "sha256": "C23924EC8FF0C7D774241F61AFCCE8A109F76105C3F5BCAFF7555973A3471BAE",
+  "version": "0.12.82",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.82/EasyArch_0.12.82.zip",
+  "sha256": "940F497E35F1AA273256CC746DC850B4572FF1637CE3BD4B27868DAD517E5F82",
   "notes": {
-    "uz": "Avtoyangilanish (3–4-bosqich): pardoz (pol, shift, devor) va profillar (plintus, karniz) endi ham o'zi yangilanadi — devor surilsa, xona chegarasi, eshik yoki shift o'zgarsa, retsept bo'yicha qayta yasaladi; ulardan keyin plitka ham tekshiriladi (zanjir). Eski loyihalar uchun yangi «Ulash» tugmasi — mavjud pardoz va profillarni bir marta kuzatuvga ulaydi. Tomonlari qo'lda kesilgan profillar «qo'lda o'zgartirilgan» deb ko'rsatiladi. Plitka: «Kontur bo'yicha» — perimetr bo'ylab chegara qatori (friz), burchaklarda qiya kesiladi, ichkarida asosiy terish; chegara bo'laklari kesish rejasida asosiy plitkadan kesiladi",
-    "ru": "Автообновление (этапы 3–4): отделка (пол, потолок, стены) и профили (плинтус, карниз) теперь тоже обновляются сами — при сдвиге стены, изменении границ помещения, двери или потолка перестраиваются по рецепту; после них проверяется и плитка (цепочка). Для старых проектов — новая кнопка «Подключить»: один раз подключает существующую отделку и профили. Профили со сторонами, разрезанными вручную, показываются как «изменено вручную». Плитка: «По контуру» — бордюрный ряд по периметру (фриз), в углах запил, внутри основная раскладка; бордюр в раскрое нарезается из основной плитки",
-    "en": "Auto update (stages 3–4): finishes (floor, ceiling, walls) and profiles (skirting, cornice) now update by themselves too — when a wall moves or the room boundary, a door or a ceiling changes they are rebuilt from their recipe; tiles are checked after them (chain). For older projects — a new «Attach» button that links existing finishes and profiles once. Profiles with hand-cut sides are shown as «edited by hand». Tiles: «Along the contour» — a border row (frieze) along the perimeter, mitred at the corners, the main layout inside; border pieces are cut from the main tile in the cutting plan"
+    "uz": "Model yasash 3D: pol to'ri endi mebel ostida, uning markazi atrofida — aylantirganda mebel joyida turadi, titramaydi; 3D rasm har kadrda piksel aniqligida joylanadi",
+    "ru": "Создание моделей, 3D: сетка пола теперь под мебелью, вокруг её центра — при вращении мебель стоит на месте и не дрожит; 3D-изображение в каждом кадре ставится с точностью до пикселя",
+    "en": "Model builder 3D: the floor grid is now under the furniture, around its center — the furniture stays in place and does not jitter while orbiting; the 3D image is placed pixel-exact every frame"
   }
 }
