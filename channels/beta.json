@@ -1,10 +1,10 @@
 {
-  "version": "0.12.82",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.82/EasyArch_0.12.82.zip",
-  "sha256": "940F497E35F1AA273256CC746DC850B4572FF1637CE3BD4B27868DAD517E5F82",
+  "version": "0.12.83",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.83/EasyArch_0.12.83.zip",
+  "sha256": "8E25CCA69B1A4DFC22B3CE58D45EAF8CF15A4A35CA365D7785C744B6FB2A8E62",
   "notes": {
-    "uz": "Model yasash 3D: pol to'ri endi mebel ostida, uning markazi atrofida — aylantirganda mebel joyida turadi, titramaydi; 3D rasm har kadrda piksel aniqligida joylanadi",
-    "ru": "Создание моделей, 3D: сетка пола теперь под мебелью, вокруг её центра — при вращении мебель стоит на месте и не дрожит; 3D-изображение в каждом кадре ставится с точностью до пикселя",
-    "en": "Model builder 3D: the floor grid is now under the furniture, around its center — the furniture stays in place and does not jitter while orbiting; the 3D image is placed pixel-exact every frame"
+    "uz": "«Butun xona» tuzatildi: «Xona chegarasida pol yoki devor yuzasi topilmadi» xatosi — Revit xona geometriyasidan kelgan yuzada havola bo'lmasa, plagin endi shu tekislikdagi yuzani devor yoki polning o'zidan topadi; bu ham ishlamasa, xona chegarasidagi devorlar va xona ostidagi pol olinadi",
+    "ru": "Исправлено «Всё помещение»: ошибка «На границе помещения не найдено пола или стен» — если у грани из геометрии помещения Revit нет ссылки, плагин теперь находит грань в той же плоскости у самой стены или перекрытия; если и это не удалось, берутся стены на границе помещения и перекрытие под помещением",
+    "en": "Fixed «Whole room»: the «No floor or wall faces found on the room boundary» error — when a face from the Revit room geometry has no reference, the plugin now finds the face in the same plane on the wall or floor itself; failing that, it takes the walls on the room boundary and the floor under the room"
   }
 }
