@@ -1,10 +1,10 @@
 {
-  "version": "0.12.83",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.83/EasyArch_0.12.83.zip",
-  "sha256": "8E25CCA69B1A4DFC22B3CE58D45EAF8CF15A4A35CA365D7785C744B6FB2A8E62",
+  "version": "0.12.84",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.84/EasyArch_0.12.84.zip",
+  "sha256": "EE116AD55816B5876345408F6672FFC3949977C3B3F423B88AF33629F117D13D",
   "notes": {
-    "uz": "«Butun xona» tuzatildi: «Xona chegarasida pol yoki devor yuzasi topilmadi» xatosi — Revit xona geometriyasidan kelgan yuzada havola bo'lmasa, plagin endi shu tekislikdagi yuzani devor yoki polning o'zidan topadi; bu ham ishlamasa, xona chegarasidagi devorlar va xona ostidagi pol olinadi",
-    "ru": "Исправлено «Всё помещение»: ошибка «На границе помещения не найдено пола или стен» — если у грани из геометрии помещения Revit нет ссылки, плагин теперь находит грань в той же плоскости у самой стены или перекрытия; если и это не удалось, берутся стены на границе помещения и перекрытие под помещением",
-    "en": "Fixed «Whole room»: the «No floor or wall faces found on the room boundary» error — when a face from the Revit room geometry has no reference, the plugin now finds the face in the same plane on the wall or floor itself; failing that, it takes the walls on the room boundary and the floor under the room"
+    "uz": "Eshik oynasi qayta ishlandi: tavaqa turi tugmalari (1 / 1,5 / 2), o'z aylantirish maydonli namunalar, eshik ichki yuzaga bog'langan siljish, zazorlar (chap/tepa/o'ng 0, pastda 10 mm), nalichnik dobor ustiga chiqishi, tavaqada oyna; Nalichnik, Oyna, Framuga, Ostona pastda belgi bilan yoqiladigan bo'limlar; Marka (nusxa yoki tur); past detallikda eshik yashiriladi. Universal shkafda polkalarni yashirish imkoniyati",
+    "ru": "Переработано окно двери: кнопки типа полотна (1 / 1,5 / 2), образцы с собственной прокруткой, сдвиг от внутренней грани, зазоры (слева/сверху/справа 0, снизу 10 мм), наличник заходит на добор, стекло в полотне; Наличник, Стекло, Фрамуга, Порог — разделы внизу, включаются галочкой; Марка (экземпляра или типа); при низкой детализации дверь скрывается. В универсальном шкафу можно скрыть полки",
+    "en": "Door window reworked: leaf-type buttons (1 / 1.5 / 2), samples with their own scrolling, shift anchored to the inner face, gaps (left/top/right 0, bottom 10 mm), casing overlapping the jamb, glass in the leaf; Casing, Glass, Transom, Threshold as sections at the bottom enabled by a checkbox; Mark (instance or type); the door is hidden at low detail level. Universal cabinet can hide shelves"
   }
 }
