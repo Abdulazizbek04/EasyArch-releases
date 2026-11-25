@@ -1,10 +1,10 @@
 {
-  "version": "0.12.84",
-  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.84/EasyArch_0.12.84.zip",
-  "sha256": "EE116AD55816B5876345408F6672FFC3949977C3B3F423B88AF33629F117D13D",
+  "version": "0.12.85",
+  "url": "https://raw.githubusercontent.com/Abdulazizbek04/EasyArch-releases/main/files/0.12.85/EasyArch_0.12.85.zip",
+  "sha256": "4287DB7D37272DDFD873C10B77592C7E13A861055CD14F5D79439A58AC5CB82B",
   "notes": {
-    "uz": "Eshik oynasi qayta ishlandi: tavaqa turi tugmalari (1 / 1,5 / 2), o'z aylantirish maydonli namunalar, eshik ichki yuzaga bog'langan siljish, zazorlar (chap/tepa/o'ng 0, pastda 10 mm), nalichnik dobor ustiga chiqishi, tavaqada oyna; Nalichnik, Oyna, Framuga, Ostona pastda belgi bilan yoqiladigan bo'limlar; Marka (nusxa yoki tur); past detallikda eshik yashiriladi. Universal shkafda polkalarni yashirish imkoniyati",
-    "ru": "Переработано окно двери: кнопки типа полотна (1 / 1,5 / 2), образцы с собственной прокруткой, сдвиг от внутренней грани, зазоры (слева/сверху/справа 0, снизу 10 мм), наличник заходит на добор, стекло в полотне; Наличник, Стекло, Фрамуга, Порог — разделы внизу, включаются галочкой; Марка (экземпляра или типа); при низкой детализации дверь скрывается. В универсальном шкафу можно скрыть полки",
-    "en": "Door window reworked: leaf-type buttons (1 / 1.5 / 2), samples with their own scrolling, shift anchored to the inner face, gaps (left/top/right 0, bottom 10 mm), casing overlapping the jamb, glass in the leaf; Casing, Glass, Transom, Threshold as sections at the bottom enabled by a checkbox; Mark (instance or type); the door is hidden at low detail level. Universal cabinet can hide shelves"
+    "uz": "Eshik oynasi: barcha bo'limlar strelka bilan yig'iladi (Asosiy, Tavaqa yuzlari, Furnitura, Tutqich, Ma'lumot, Zazor...); Family nomi tepada, joylash doim yoqiq, andoza pastda; ochilish tomoni va yo'nalishi Revit'dagi kabi flip tugmalari; siljish uchun sirpanchiq; zazor ichida ostona; yon qiyalik standart yoqiq; devor qalinligi o'lchami olib tashlandi; yangi «Ma'lumot» bo'limi (tavsif, ishlab chiqaruvchi, model, izohlar, keynote, narx, marka) family'ga yoziladi; nalichnik profilini tanlash; 3D previewni dastlab markazga sig'dirish",
+    "ru": "Окно двери: все разделы сворачиваются стрелкой (Основное, Грани полотна, Фурнитура, Ручка, Данные, Зазор...); имя семейства сверху, размещение всегда включено, шаблон внизу; сторона и направление открывания — кнопки-флипы как в Revit; ползунок для сдвига; порог внутри зазора; откос по умолчанию включён; убран размер толщины стены; новый раздел «Данные» (описание, изготовитель, модель, комментарии, keynote, стоимость, марка) записывается в семейство; выбор профиля наличника; 3D-просмотр сразу по центру",
+    "en": "Door window: all sections collapse with an arrow (Main, Leaf faces, Hardware, Handle, Data, Gap...); family name on top, placement always on, template at the bottom; opening side and direction as Revit-style flip buttons; slider for shift; threshold inside Gap; jamb lining on by default; wall thickness dimension removed; new «Data» section (description, manufacturer, model, comments, keynote, cost, mark) written to the family; casing profile selection; 3D preview fitted to centre on open"
   }
 }
